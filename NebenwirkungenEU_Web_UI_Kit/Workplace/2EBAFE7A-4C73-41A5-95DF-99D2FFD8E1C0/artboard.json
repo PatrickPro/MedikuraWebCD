@@ -32,7 +32,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FCA73034-F103-48D9-81E8-ED01FEDB07FA",
-    "height": 3117,
+    "height": 3517,
     "width": 1440,
     "x": -333,
     "y": -265
@@ -44,7 +44,7 @@
     "thickGridTimes": 8
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -72,8 +72,12 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1AD82D09-E97A-404D-9A1F-43CF6D1B6D00"
+    },
     {
       "class": "text",
       "id": "3CC320F2-6C53-4881-9FD3-39500AE63E9C"
@@ -115,44 +119,12 @@
       "id": "75A2C5B6-6DBA-48BC-A778-1C1355590DCB"
     },
     {
-      "class": "text",
-      "id": "E6824735-B584-423F-8614-938006E67231"
-    },
-    {
-      "class": "text",
-      "id": "1FE5EADC-FE4C-454E-A351-F3BC8804C3DC"
-    },
-    {
-      "class": "text",
-      "id": "9BFCFE43-FDF8-4244-B4F2-61CC7BC782B6"
-    },
-    {
-      "class": "text",
-      "id": "686BBE19-9C78-4A69-9F5D-66A61D9DB85B"
-    },
-    {
-      "class": "group",
-      "id": "58F8D309-9ED5-488D-ABFE-18E8C7ED57CA"
-    },
-    {
-      "class": "group",
-      "id": "40D98FDE-3A56-41FA-9BF4-A87375D24EA7"
-    },
-    {
-      "class": "text",
-      "id": "93B2D67F-3926-4E6F-9C1A-D2B14CCF4D99"
-    },
-    {
       "class": "shapeGroup",
-      "id": "097B4F68-6FF9-4032-A994-EB580D4201E2"
+      "id": "63B9D207-1673-4AEA-B790-C85CE4377DEB"
     },
     {
-      "class": "group",
-      "id": "C60A207D-AF94-4230-B366-56AC21223C08"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D1075F77-B508-4883-8D5D-B4DCAD8C7BB4"
+      "class": "text",
+      "id": "90F4259E-3156-43DB-BA98-DFF34485EC70"
     },
     {
       "class": "group",
@@ -185,6 +157,26 @@
     {
       "class": "group",
       "id": "2D158658-AF3E-4CA0-9037-7F2DE1364111"
+    },
+    {
+      "class": "group",
+      "id": "12AC1FDB-D5B2-49FC-8C68-141F63DE68F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4718917A-45E0-468F-A965-4C399D8F3D65"
+    },
+    {
+      "class": "group",
+      "id": "B4C7A0EE-A1AC-4864-9678-F10E2506D354"
+    },
+    {
+      "class": "group",
+      "id": "492D8BC6-13DA-4D73-BB75-EA814AB1DA2F"
+    },
+    {
+      "class": "group",
+      "id": "597A240E-4BB8-42E2-AAC1-50DC6F6AE52B"
     }
   ],
   "layout": {
@@ -198,7 +190,7 @@
     "gutterWidth": 30,
     "guttersOutside": true,
     "horizontalOffset": 150,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1140

@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3BC67081-4C59-4F3B-B064-5547383B3170",
-    "height": 400,
-    "width": 920,
-    "x": 260,
-    "y": 2516
+    "height": 272,
+    "width": 1440,
+    "x": 0,
+    "y": 2880
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -63,29 +63,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 20,
-        "color": {
-          "_class": "color",
-          "alpha": 0.05,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": 5,
-        "spread": 0
-      }
-    ],
-    "sharedObjectID": "AD8F0B37-B4AE-4E47-97C1-A42B672F614B",
     "startDecorationType": 0
   },
   "windingRule": 1

@@ -32,8 +32,8 @@
       "id": "35D41264-544A-462C-9B83-5408A51B8679"
     }
   ],
-  "name": "Rectangle 3",
-  "nameIsFixed": false,
+  "name": "photo",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -54,7 +54,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/437df34ee8521d5c30823243acbec3e97859c9af",
+          "_ref": "images/5ac99b08c702ee7955c92e565ea50fba31d83a06",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -71,22 +71,23 @@
         "blurRadius": 20,
         "color": {
           "_class": "color",
-          "alpha": 0.15,
-          "blue": 0.5098039215686274,
-          "green": 0.4745098039215684,
-          "red": 0.06666666666666665
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "offsetX": 0,
         "offsetY": 5,
         "spread": 0
       }
     ],
+    "sharedObjectID": "AD8F0B37-B4AE-4E47-97C1-A42B672F614B",
     "startDecorationType": 0
   },
   "windingRule": 1
