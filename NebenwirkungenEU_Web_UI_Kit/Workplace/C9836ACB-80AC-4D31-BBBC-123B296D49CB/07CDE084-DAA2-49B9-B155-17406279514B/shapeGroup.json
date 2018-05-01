@@ -16,25 +16,29 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6D9BA8D0-B639-4DAD-A311-D7BAA8B10CC6",
-    "height": 847.0000000000002,
+    "height": 1120,
     "width": 1440,
     "x": 0,
-    "y": 2312
+    "y": 2310
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
       "id": "24C14828-3BA5-4ED6-9160-9C1937F30DA1"
+    },
+    {
+      "class": "shapePath",
+      "id": "BC9568E9-90EA-4131-A51D-6D32E0102552"
     }
   ],
-  "name": "Path 4 Copy",
+  "name": "Combined Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

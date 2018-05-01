@@ -32,7 +32,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "63D16F40-7117-4690-A8BB-1C7717A4CE55",
-    "height": 3638,
+    "height": 4604,
     "width": 1440,
     "x": 1207,
     "y": -265
@@ -77,10 +77,6 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "88631555-DDC3-4B9A-9394-C9255AC6D937"
-    },
-    {
-      "class": "shapeGroup",
       "id": "DF9B5143-5128-44DB-817E-D35A0AA31220"
     },
     {
@@ -113,19 +109,7 @@
     },
     {
       "class": "text",
-      "id": "C1D4C24B-76D2-4DB9-A6CA-FFD024CD9204"
-    },
-    {
-      "class": "text",
       "id": "DA5AA4EC-530C-4D90-A9C4-4AD0EF13ACFE"
-    },
-    {
-      "class": "text",
-      "id": "0C0C8D78-CD4A-4F6C-95CD-FDF2DDFA42CC"
-    },
-    {
-      "class": "text",
-      "id": "4B0EC999-A043-418C-9541-D71C0317D178"
     },
     {
       "class": "group",
@@ -138,14 +122,6 @@
     {
       "class": "group",
       "id": "FFC2C937-49F7-4F4B-A986-C9ECFBEAACE1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1424CD5C-1B90-4DF4-8316-532C1BE7F23E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "50426E76-1D09-4019-896F-494F5053502A"
     },
     {
       "class": "shapeGroup",
@@ -164,12 +140,28 @@
       "id": "09C4B0F2-22D4-483F-B91E-817E5169E3EE"
     },
     {
-      "class": "shapeGroup",
-      "id": "3C0CD66A-C039-4BAC-B298-FEF026406EE5"
+      "class": "group",
+      "id": "AED51B72-3A42-44B3-A638-7242F9414EFA"
     },
     {
       "class": "group",
       "id": "922CD319-46AF-42FC-AD71-AA578C4D2C70"
+    },
+    {
+      "class": "group",
+      "id": "DA601B45-6C4C-43B7-9263-D01A09EF40A9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D942576-F4E4-4FEA-8181-0AD9CEE75BF8"
+    },
+    {
+      "class": "group",
+      "id": "47D69F6E-0553-4725-9B92-C2EFC2EC6CB3"
+    },
+    {
+      "class": "group",
+      "id": "1B212DC1-DD72-4B26-BBD4-4A39C1FB6F65"
     }
   ],
   "layout": {
@@ -197,7 +189,7 @@
     "offersLandscapeVariant": 0,
     "width": 1440
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
