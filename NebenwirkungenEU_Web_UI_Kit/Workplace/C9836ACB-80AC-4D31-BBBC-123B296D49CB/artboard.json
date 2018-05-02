@@ -32,7 +32,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "63D16F40-7117-4690-A8BB-1C7717A4CE55",
-    "height": 4604,
+    "height": 4602,
     "width": 1440,
     "x": 1207,
     "y": -265
@@ -73,8 +73,12 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "group",
+      "id": "4FD5259E-4CCB-4162-B5BC-88299294D1EC"
+    },
     {
       "class": "shapeGroup",
       "id": "DF9B5143-5128-44DB-817E-D35A0AA31220"
@@ -98,10 +102,6 @@
     {
       "class": "symbolInstance",
       "id": "034F8890-C014-4EAF-BC2C-6DD0C251694B"
-    },
-    {
-      "class": "group",
-      "id": "19E20E45-289D-40F2-9650-E61F9488AEE9"
     },
     {
       "class": "text",
@@ -180,7 +180,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Extra large: Desktops - 12 col Copy",
+  "name": "landing page - 2",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

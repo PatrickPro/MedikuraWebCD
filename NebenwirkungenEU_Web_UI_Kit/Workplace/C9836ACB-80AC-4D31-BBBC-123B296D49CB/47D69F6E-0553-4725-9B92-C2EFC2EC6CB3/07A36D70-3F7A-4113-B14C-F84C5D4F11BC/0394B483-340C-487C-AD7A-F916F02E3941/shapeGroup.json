@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2D8C9605-60B2-4ABF-AACF-F85B8A4F635B",
-    "height": 166,
-    "width": 255,
+    "height": 228,
+    "width": 350,
     "x": 0,
     "y": 0
   },
@@ -59,6 +59,53 @@
           "_class": "MSJSONFileReference",
           "_ref": "images/51b12e8d88859a8eb6a4d75d99d578939fce62f4",
           "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      },
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

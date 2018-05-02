@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EA5F7D3C-6CB5-4679-BA0D-5D17FA7D112D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC23BD20-633E-4FD6-9E7D-8E730BFD6830",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B9E424A-01D3-44C7-B3A8-3D517C9B3C82",
+    "height": 58,
+    "width": 255,
+    "x": 380,
+    "y": 259
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / input / default copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2FB1C964-445A-4B1B-A896-7A088FA87F40",
+      "overrideName": "90ACB1E6-9C3A-45BA-8A09-A78ACA76E59C_stringValue",
+      "value": "E-Mail-Adresse"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D75CD119-E44D-45CC-ADF2-972E911D9F54",
+      "overrideName": "52B1BF81-8402-4464-BA41-F1BB89BA84C9/F7AF2EC0-8824-433E-9019-DB26A079043C_stringValue",
+      "value": "z.B. mail@mail.com "
+    }
+  ],
+  "overrides": {
+    "52B1BF81-8402-4464-BA41-F1BB89BA84C9": {
+      "F7AF2EC0-8824-433E-9019-DB26A079043C": "z.B. mail@mail.com "
+    },
+    "90ACB1E6-9C3A-45BA-8A09-A78ACA76E59C": "E-Mail-Adresse"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1AB2181F-389A-4A66-9F96-13510F527A04",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9BEC873C-CCCA-4CB4-A4F4-7753B4835BB1",
+  "verticalSpacing": 0
+}
