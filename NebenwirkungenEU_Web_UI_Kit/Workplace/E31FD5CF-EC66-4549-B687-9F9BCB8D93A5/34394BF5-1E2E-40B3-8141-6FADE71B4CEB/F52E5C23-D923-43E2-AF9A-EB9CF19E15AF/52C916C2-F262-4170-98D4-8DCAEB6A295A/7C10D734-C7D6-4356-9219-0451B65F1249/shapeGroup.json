@@ -1,0 +1,102 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "7C10D734-C7D6-4356-9219-0451B65F1249",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7B8F60B-8504-48E0-B7D1-3E17D4BCA66E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "500AF178-0EC5-4D81-916E-12993F27AA0C",
+    "height": 17.38814852235411,
+    "width": 18.62097391304349,
+    "x": 12.94990807453415,
+    "y": 21.59543319019955
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DE01E250-FDFE-425A-875F-A039E62AEF8A"
+    },
+    {
+      "class": "shapePath",
+      "id": "715F4BBE-B476-474E-9A44-60FC09ED0B1B"
+    },
+    {
+      "class": "shapePath",
+      "id": "839E5665-8487-4957-BFCF-BE4B0072DBF9"
+    },
+    {
+      "class": "shapePath",
+      "id": "5A2B4FB6-BA3C-4F29-9AE8-BEDF710A361C"
+    },
+    {
+      "class": "shapePath",
+      "id": "DDD2788E-1158-4EA5-9687-772A5F0CE189"
+    },
+    {
+      "class": "shapePath",
+      "id": "392AF0C6-5109-4729-921B-A08DAA071958"
+    },
+    {
+      "class": "shapePath",
+      "id": "7E59D2D6-E241-4570-88C3-4BC92C1F4CF3"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B4110A69-EA31-4B61-AAD9-9C696C8023C1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 29.42157110381409,
+      "type": 0
+    },
+    "do_objectID": "121BCCE4-C869-4B56-8E06-3AEA8615BF88",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7803921568627451,
+          "green": 0.7647058823529412,
+          "red": 0.5843137254901961
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}
