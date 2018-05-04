@@ -32,7 +32,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4B28D80C-F653-4603-92DC-BCEB0B529702",
-    "height": 2846,
+    "height": 2745,
     "width": 1440,
     "x": 7967,
     "y": -265
@@ -45,7 +45,7 @@
     "thickGridTimes": 8
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -76,20 +76,32 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "CD8C85B2-B85C-462F-8164-E1E9C2780156"
-    },
-    {
-      "class": "group",
-      "id": "0E040477-ECB0-43D7-BE4C-65C018947597"
-    },
-    {
       "class": "symbolInstance",
       "id": "DDE1C1A6-73B6-4EE2-AEE1-D0AC3A6380A4"
     },
     {
       "class": "group",
       "id": "962DA34E-9DB9-4516-B87F-F43F34341DE3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0076C344-15CE-4CC9-9D6A-D622316E6971"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC654763-C17D-42F8-B84B-9D20DA4052A2"
+    },
+    {
+      "class": "group",
+      "id": "0A7EA06A-128A-4319-8ED4-2F8875980D77"
+    },
+    {
+      "class": "group",
+      "id": "BA5731CD-8111-4D19-B55B-F04C14CACE83"
+    },
+    {
+      "class": "group",
+      "id": "986CA2B0-2C19-40A7-B14A-F2FB8C8624E6"
     }
   ],
   "layout": {
