@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9803921568627451,
-    "do_objectID": "AAEBF1A8-96AF-4B33-A399-4EEDA2C6D848",
-    "green": 0.9803921568627451,
-    "red": 0.9803921568627451
+    "blue": 0.9764705882352941,
+    "green": 0.9725490196078431,
+    "red": 0.9529411764705882
   },
   "do_objectID": "DBDDA81F-382C-4B51-A784-B3685FF0411A",
   "exportOptions": {
@@ -32,10 +31,16 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0228FCFA-2BCF-4622-84DF-94C94E251076",
-    "height": 751,
-    "width": 1440,
+    "height": 798,
+    "width": 1344,
     "x": -467,
     "y": -339
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -56,20 +61,44 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "8DD9A1F1-A2E4-4648-8232-2D44EAB2045D"
+    },
+    {
       "class": "shapeGroup",
-      "id": "66303A85-7FAD-44F0-A631-CEBD0643864F"
+      "id": "D7896E9F-A80A-4881-8393-D796A589F79C"
     },
     {
       "class": "group",
-      "id": "FEBDA93A-B7FD-4257-8479-A6E505136597"
+      "id": "15E9A725-CD5B-47F2-9F0F-0B220E3422F5"
     },
     {
       "class": "group",
-      "id": "9DCAD68C-BA3A-4BA8-BE6A-76D1DB0EDC15"
+      "id": "6654D3A1-F978-4E7A-8CAE-C005D0E9EF92"
     },
     {
       "class": "group",
-      "id": "A8DE42DC-FBF8-4FD1-A742-564B504A8077"
+      "id": "7CF41663-695F-4254-B63D-3A5489B86767"
+    },
+    {
+      "class": "group",
+      "id": "5D941BB0-725F-48E1-8722-FD90D2B6188B"
+    },
+    {
+      "class": "group",
+      "id": "60088077-AFF0-4E63-9DFA-0885C7F28C3C"
+    },
+    {
+      "class": "group",
+      "id": "89D2254A-0B64-411A-AC6D-9AE92C8A0E2C"
+    },
+    {
+      "class": "group",
+      "id": "7DB530CB-77E0-45B1-84BF-94857F596CED"
+    },
+    {
+      "class": "group",
+      "id": "0355247C-4197-4F1A-892D-B6DE9214E7D1"
     }
   ],
   "layout": {
@@ -90,6 +119,13 @@
   },
   "name": "Colors",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
