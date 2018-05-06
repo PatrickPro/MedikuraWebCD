@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 515,
   "do_objectID": "796A8C56-1D0E-4756-9113-6C5915DB19FA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 562,
+    "height": 560,
     "width": 1440,
-    "x": 1004,
-    "y": 5293
+    "x": 0,
+    "y": 648
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,6 +55,21 @@
       "id": "AB16CDF3-F13E-46DC-A937-840C671860DF"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
   "name": "Advise / 2",
   "nameIsFixed": false,
   "resizesContent": false,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9,
+  "changeIdentifier": 33,
   "do_objectID": "C366F03D-916B-4B54-9359-00BC33E25784",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 608,
     "width": 730,
-    "x": 8887,
-    "y": 636
+    "x": 12634,
+    "y": 771
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,7 +46,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "922CD319-46AF-42FC-AD71-AA578C4D2C70"
+      "id": "07DE77C8-3FFC-40FA-890F-657E780C8C21"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "548C1BFC-FAB9-4EEB-BBA9-3F60274FCBC2"
     }
   ],
   "name": "input / form / block (form) / done (active)",

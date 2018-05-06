@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 1718,
   "do_objectID": "958461FE-ABCC-413D-BE69-7B4518F36E8B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 466,
     "width": 1440,
-    "x": 1004,
-    "y": 2823
+    "x": 15802,
+    "y": 566
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,6 +49,21 @@
       "id": "9BC11D04-1422-4C04-8C4D-8EFA42FBE845"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
   "name": "Report / 2",
   "nameIsFixed": false,
   "resizesContent": false,
