@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 392,
+  "changeIdentifier": 537,
   "do_objectID": "82E4BB65-DD25-4885-A326-DFCD89651922",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 610,
     "width": 1110,
-    "x": 4282,
-    "y": 0
+    "x": 0,
+    "y": 204
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,15 +42,34 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "FF8C7C3A-E978-45BE-9ED9-2B0D5A6C516C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9F2C3E9-CC14-48EF-BF60-01EA318E381E"
     }
   ],
-  "name": "First Screen / 1",
-  "nameIsFixed": false,
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": -15,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "1-Desktop / 1-Landing / 2-First Screen / 1",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
