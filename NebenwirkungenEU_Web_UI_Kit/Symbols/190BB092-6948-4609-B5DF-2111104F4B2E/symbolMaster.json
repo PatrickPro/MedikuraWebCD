@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9,
+  "changeIdentifier": 20,
   "do_objectID": "190BB092-6948-4609-B5DF-2111104F4B2E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 368,
     "width": 375,
     "x": 4248,
-    "y": 5519
+    "y": 7419
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,11 +42,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "0B1AB48E-60C3-45C0-9809-C076BFB51608"
+    },
+    {
       "class": "group",
-      "id": "45664F25-FE29-4D37-B27C-EF08BC710BEF"
+      "id": "8000E98E-3C63-46E8-BDAA-E131A320691A"
+    },
+    {
+      "class": "group",
+      "id": "08B849FE-2084-4B0D-B268-2E56820A7593"
+    },
+    {
+      "class": "group",
+      "id": "F9829B45-C7B8-478D-A89D-EBE46FA910F1"
     }
   ],
   "name": "3-Mobile / 1-Landing / 9-Footer / 1",

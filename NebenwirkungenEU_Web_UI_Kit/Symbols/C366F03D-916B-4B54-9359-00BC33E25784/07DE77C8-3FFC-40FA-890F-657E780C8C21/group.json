@@ -23,15 +23,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "9EBE1A19-4C69-49BD-AF3B-4FF3E0A887CA"
     },
     {
+      "class": "symbolInstance",
+      "id": "B15F5F86-2945-4353-B77E-CA99BFC6BF11"
+    },
+    {
       "class": "group",
-      "id": "54AEB089-93B5-4BE7-A0E4-6084A0EC0DBE"
+      "id": "030EF3B2-36CB-4B82-944C-2B84AC43EEA1"
     },
     {
       "class": "symbolInstance",
@@ -43,19 +47,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "FACC7D63-7538-4E5E-939E-F66119A6CB76"
-    },
-    {
-      "class": "group",
-      "id": "030EF3B2-36CB-4B82-944C-2B84AC43EEA1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B15F5F86-2945-4353-B77E-CA99BFC6BF11"
-    },
-    {
-      "class": "symbolInstance",
       "id": "78D64D05-8020-4E71-93EC-9F34E2BEB9C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FACC7D63-7538-4E5E-939E-F66119A6CB76"
     },
     {
       "class": "text",
@@ -64,6 +60,10 @@
     {
       "class": "group",
       "id": "A8FD81E8-1A01-4A6D-A3A7-6E02AF53520A"
+    },
+    {
+      "class": "group",
+      "id": "54AEB089-93B5-4BE7-A0E4-6084A0EC0DBE"
     }
   ],
   "name": "form (active)",

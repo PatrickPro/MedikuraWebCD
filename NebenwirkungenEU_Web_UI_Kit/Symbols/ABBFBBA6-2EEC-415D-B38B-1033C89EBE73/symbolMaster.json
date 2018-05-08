@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12,
+  "changeIdentifier": 25,
   "do_objectID": "ABBFBBA6-2EEC-415D-B38B-1033C89EBE73",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "height": 273,
     "width": 768,
     "x": 3280,
-    "y": 4249
+    "y": 7547
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,11 +42,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "80F8C238-84A5-4377-B738-6004E9F88608"
+    },
+    {
       "class": "group",
-      "id": "B9885ABE-10FA-4B58-AAD0-6EBAA7C6731C"
+      "id": "807F317F-8993-4087-9514-98B15A989D82"
+    },
+    {
+      "class": "group",
+      "id": "3D7F6BBF-1C12-4B21-93A5-AC0B92F2608A"
+    },
+    {
+      "class": "group",
+      "id": "C7BAF1D8-EBA1-4331-B114-F700F5541934"
+    },
+    {
+      "class": "group",
+      "id": "B5CB7186-38D4-47EB-A223-B0A092BCDF6B"
     }
   ],
   "name": "2-Tablet / 1-Landing / 9-Footer / 1",

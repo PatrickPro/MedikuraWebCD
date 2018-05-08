@@ -13,25 +13,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 104,
-    "width": 768,
-    "x": 0,
-    "y": 0
+    "height": 40,
+    "width": 690,
+    "x": 39,
+    "y": 32
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "664112BD-260D-446B-A493-099583507B57"
-    },
     {
       "class": "group",
       "id": "543126AC-D290-4293-A55A-FAB0D41D642E"
+    },
+    {
+      "class": "bitmap",
+      "id": "0C138257-BF1D-4C1F-8CEB-BB6E24BD078C"
     },
     {
       "class": "group",
