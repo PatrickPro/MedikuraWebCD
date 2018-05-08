@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4383,
+  "changeIdentifier": 4631,
   "do_objectID": "08A3D4FC-8089-46F1-ADCC-E81B9FE3F45E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,13 +23,13 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 5698,
+    "x": 6479,
     "y": 114
   },
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 8,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 8
   },
   "hasBackgroundColor": false,
@@ -56,7 +56,15 @@
     },
     {
       "class": "shapeGroup",
-      "id": "CB2C54B1-13CD-4666-81C3-3A33774E1BE1"
+      "id": "F37876CD-3D71-4375-96C8-05285693B6BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BDBD6690-F8B3-479B-9FD7-373FD65A7A9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F783740-8ECA-44A9-B0C1-115AA98862DA"
     }
   ],
   "name": "icons / grid (24px)",
