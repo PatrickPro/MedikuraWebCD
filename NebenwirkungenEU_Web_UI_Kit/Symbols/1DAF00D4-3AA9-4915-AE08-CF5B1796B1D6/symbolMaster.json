@@ -1,0 +1,101 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BFAC2853-9934-4699-9DA9-00D5E87765A4",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1966,
+  "do_objectID": "1DAF00D4-3AA9-4915-AE08-CF5B1796B1D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7FEEFC6-392F-459B-90E6-F885131B2B7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D33BDEBD-CAAE-48E5-B0D3-EF3197661EEE",
+    "height": 1256,
+    "width": 768,
+    "x": 4248,
+    "y": 2759
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "46171AFB-CF8A-48D8-B732-F6237F3B23F0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6474CD18-C07C-43C6-9E1F-F86F1BC797CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "33EB108F-8D0B-4448-AA61-F2772752F293"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E6E19B1E-6369-4F85-8C98-02C72C01EE8C"
+    }
+  ],
+  "name": "2-Tablet / 2-Report / bg / 1",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9084C4D5-071F-48EC-BB49-C98A45027735",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.333333333333333,
+      "type": 0
+    },
+    "do_objectID": "0CF4A381-6CB8-41EE-B7EB-46F1D8B97739",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "525E743C-243A-4D1A-A729-F1F554119029",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A75CCAA8-E88D-4583-B03D-AB5CEA4E6B9F",
+    "guides": [
+    ]
+  }
+}
