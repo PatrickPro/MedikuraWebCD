@@ -32,9 +32,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "CD9E2746-B52C-4BEE-8604-B877BC68B16B",
-    "height": 3064,
-    "width": 1440,
-    "x": 12525,
+    "height": 3110,
+    "width": 1441,
+    "x": 9216,
     "y": -265
   },
   "grid": {
@@ -45,7 +45,7 @@
     "thickGridTimes": 8
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -73,47 +73,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "A57C5361-19B9-4BC3-9478-02440AD2508E"
     },
     {
-      "class": "group",
-      "id": "F085E068-893F-4434-B608-F14B55CBFE9B"
+      "class": "symbolInstance",
+      "id": "258B4339-56B0-4258-A7C0-1BFDAB738A26"
     },
     {
-      "class": "shapeGroup",
-      "id": "77CED7FC-1DF3-49CA-B7D8-A907E158F737"
+      "class": "symbolInstance",
+      "id": "68949286-55D4-4CD1-8975-E3BB9234CFD9"
     },
     {
-      "class": "text",
-      "id": "E467D8A1-BE62-43C5-89F1-BF7521F1A448"
+      "class": "symbolInstance",
+      "id": "69C81D9D-EF42-418A-BA3C-F2EE82D2491F"
     },
     {
-      "class": "group",
-      "id": "0F9635D2-7C79-4475-824B-11C5B3F214E0"
-    },
-    {
-      "class": "group",
-      "id": "5CD1F380-0289-459A-A31F-BA66DDB3F0F9"
-    },
-    {
-      "class": "group",
-      "id": "0973C0B5-720C-4762-BE3A-7D85C9F0AF54"
-    },
-    {
-      "class": "group",
-      "id": "2CDD245E-CB7F-45E1-AFED-B152A8456AAC"
-    },
-    {
-      "class": "group",
-      "id": "8A343379-4905-4620-B8B5-76A70D4D42F6"
-    },
-    {
-      "class": "group",
-      "id": "FEDFC8AC-1C85-4132-A3ED-AC160B066F4C"
+      "class": "symbolInstance",
+      "id": "38B8CF79-59B5-45C3-814A-ED5B761A67FE"
     }
   ],
   "layout": {
@@ -132,7 +112,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "reporting page - 2",
+  "name": "Report Desktop #2",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

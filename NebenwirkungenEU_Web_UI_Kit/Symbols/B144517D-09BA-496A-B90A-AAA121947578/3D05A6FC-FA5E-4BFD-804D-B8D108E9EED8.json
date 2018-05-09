@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3D05A6FC-FA5E-4BFD-804D-B8D108E9EED8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C247157-839E-45B6-8AC0-1477BCE7229D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B081002-225A-4AC5-8D2C-FBEACB645D49",
+    "height": 57,
+    "width": 255,
+    "x": 360,
+    "y": 296
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / input / default copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2FB1C964-445A-4B1B-A896-7A088FA87F40",
+      "overrideName": "90ACB1E6-9C3A-45BA-8A09-A78ACA76E59C_stringValue",
+      "value": "E-Mail-Adresse"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75F8BEE6-0344-4510-A4DF-88CD2101BD09",
+      "overrideName": "52B1BF81-8402-4464-BA41-F1BB89BA84C9_symbolID",
+      "value": "3FFB4D82-CF27-4B63-A6D2-2C20A8C5FA82"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D097D92-CA20-4F6C-BD4D-1D637CC2E206",
+      "overrideName": "52B1BF81-8402-4464-BA41-F1BB89BA84C9/D1CF445E-5881-477A-B6B3-3EA210B3FA81_stringValue",
+      "value": "reofefe"
+    }
+  ],
+  "overrides": {
+    "52B1BF81-8402-4464-BA41-F1BB89BA84C9": {
+      "D1CF445E-5881-477A-B6B3-3EA210B3FA81": "reofefe",
+      "symbolID": "3FFB4D82-CF27-4B63-A6D2-2C20A8C5FA82"
+    },
+    "90ACB1E6-9C3A-45BA-8A09-A78ACA76E59C": "E-Mail-Adresse"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "346D9717-8537-4A98-AE62-8B35BB2AB943",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9BEC873C-CCCA-4CB4-A4F4-7753B4835BB1",
+  "verticalSpacing": 0
+}
