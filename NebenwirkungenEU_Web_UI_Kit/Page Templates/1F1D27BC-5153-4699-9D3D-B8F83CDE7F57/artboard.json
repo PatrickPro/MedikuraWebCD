@@ -73,12 +73,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "DDE1C1A6-73B6-4EE2-AEE1-D0AC3A6380A4"
-    },
     {
       "class": "group",
       "id": "962DA34E-9DB9-4516-B87F-F43F34341DE3"
@@ -102,6 +98,10 @@
     {
       "class": "group",
       "id": "986CA2B0-2C19-40A7-B14A-F2FB8C8624E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95CF343C-5A9C-4DE2-B16F-0DAB62AA9DA2"
     }
   ],
   "layout": {
@@ -120,7 +120,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "database page - 2",
+  "name": "Database Desktop #2",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
