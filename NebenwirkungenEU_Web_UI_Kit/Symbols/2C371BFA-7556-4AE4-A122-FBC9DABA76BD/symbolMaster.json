@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 10,
+  "changeIdentifier": 26,
   "do_objectID": "2C371BFA-7556-4AE4-A122-FBC9DABA76BD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,9 +22,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1366,
-    "width": 376,
+    "width": 375,
     "x": 8400,
-    "y": 5525
+    "y": 5509
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,15 +42,30 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "E95FF396-7F24-49DD-A96C-5F4F5E291990"
+    },
+    {
       "class": "group",
-      "id": "EF19E8C0-854E-4901-8D38-F75174EC34D6"
+      "id": "61224C08-6846-4ED6-8768-198B71FA2262"
+    },
+    {
+      "class": "text",
+      "id": "7A8C049F-C06A-4E48-A40D-BFF0CEFDFCC4"
     }
   ],
   "name": "3-Mobile / 2-Report / 3-Copy / 2",
   "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

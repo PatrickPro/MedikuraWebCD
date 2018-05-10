@@ -23,9 +23,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "ADCBB5E5-DEBA-4E2D-A2F3-E5DE080DC1DF",
-    "height": 3004,
+    "height": 2416,
     "width": 375,
-    "x": 17993,
+    "x": 16181,
     "y": -265
   },
   "grid": {
@@ -58,11 +58,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "A5B2C2A1-591F-4E48-A851-A93E8CCD1702"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BB359C19-1EB7-4188-A3AB-1B54C85133C8"
+      "id": "742AFD2E-CCD2-4DAC-966D-E43F6145F61E"
     },
     {
       "class": "symbolInstance",
@@ -70,7 +66,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "DF903F9C-378D-407C-B63F-725F34AEEB9A"
+      "id": "6AAE66D5-52E3-46F9-95EF-6E9C2D74B4E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "438C8454-D3D4-4BD7-BBD4-4A5BBB804B50"
     },
     {
       "class": "symbolInstance",
@@ -125,7 +125,8 @@
     "base": 0,
     "do_objectID": "082DE5D0-0D6B-40EB-B590-26D6B40020D0",
     "guides": [
-      64
+      64,
+      1784
     ]
   }
 }

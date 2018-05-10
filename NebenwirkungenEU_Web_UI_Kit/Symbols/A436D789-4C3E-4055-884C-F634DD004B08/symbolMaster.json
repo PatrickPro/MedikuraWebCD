@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 12,
   "do_objectID": "A436D789-4C3E-4055-884C-F634DD004B08",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 368,
     "width": 375,
     "x": 8400,
-    "y": 7823
+    "y": 7807
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,11 +42,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "F8BD2049-DDB9-407C-A4F4-CEF9DD30F617"
+    },
+    {
       "class": "group",
-      "id": "30137D5E-3B51-48BA-96E1-0505B6D67ED4"
+      "id": "7CA7E3E0-5C27-476E-A19C-F94143F078B7"
+    },
+    {
+      "class": "group",
+      "id": "258AD392-E327-4532-AE3B-D7978E2A7F7A"
+    },
+    {
+      "class": "group",
+      "id": "1E9B8EFC-E2EB-4555-A19C-C5768E74A9F9"
     }
   ],
   "name": "3-Mobile / 2-Report / 5-Footer / 2",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1092,
+  "changeIdentifier": 1590,
   "do_objectID": "3D8C4931-DDBA-4DFE-8582-A7BDE82547B4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1472,
+    "height": 1312,
     "width": 768,
-    "x": 4921,
-    "y": 8281
+    "x": 6857,
+    "y": 968
   },
   "grid": {
     "_class": "simpleGrid",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -71,6 +71,21 @@
       "id": "2C628444-11A5-47A7-9D12-CF27CE33F1E4"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 59,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 768
+  },
   "name": "2-Tablet / 3-Database / 3-Copy / 1",
   "nameIsFixed": false,
   "resizesContent": false,
