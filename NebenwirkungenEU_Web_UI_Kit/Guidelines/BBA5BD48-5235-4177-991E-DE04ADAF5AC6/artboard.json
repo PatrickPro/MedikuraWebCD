@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.98,
-    "do_objectID": "ADCCC70E-672C-4D58-B733-11412DD0B5FA",
-    "green": 0.98,
-    "red": 0.98
+    "blue": 0.9764705882352941,
+    "green": 0.9725490196078431,
+    "red": 0.9529411764705882
   },
   "do_objectID": "BBA5BD48-5235-4177-991E-DE04ADAF5AC6",
   "exportOptions": {
@@ -34,11 +33,11 @@
     "do_objectID": "F94E61A4-347E-4E6C-AF06-363798747945",
     "height": 1831,
     "width": 1440,
-    "x": 3013,
+    "x": 2717,
     "y": -339
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -2,
@@ -46,7 +45,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
