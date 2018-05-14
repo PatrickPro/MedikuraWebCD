@@ -16,7 +16,7 @@
     "height": 521,
     "width": 920,
     "x": 260,
-    "y": 1876
+    "y": 1902
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -27,8 +27,17 @@
   "name": "other components / graph",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90F58AB8-8721-473B-AF84-497090A720CF",
+      "overrideName": "4A6CB31B-BD55-41C1-A2EC-44DCA07B9959/FC072D61-7B72-4D52-AF22-9DD3EA4A8E2E_stringValue",
+      "value": " "
+    }
   ],
   "overrides": {
+    "4A6CB31B-BD55-41C1-A2EC-44DCA07B9959": {
+      "FC072D61-7B72-4D52-AF22-9DD3EA4A8E2E": " "
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
