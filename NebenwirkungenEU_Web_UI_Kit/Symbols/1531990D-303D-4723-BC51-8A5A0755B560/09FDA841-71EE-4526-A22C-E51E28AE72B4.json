@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "09FDA841-71EE-4526-A22C-E51E28AE72B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C3976EC-5A07-4789-8558-B090D126FF5C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48D7BF05-1268-4E36-8186-799C0450379D",
+    "height": 317,
+    "width": 210,
+    "x": 399,
+    "y": 469
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input / tablet / member card copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7F8271D-1BDD-4CE8-BA8D-C0424CF4FDCC",
+      "overrideName": "1D46545B-8FF1-45CD-BDEA-A7285DE91DA2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e5b71fa94ae9b32c91295a83dcada115869c7121",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "1D46545B-8FF1-45CD-BDEA-A7285DE91DA2": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/e5b71fa94ae9b32c91295a83dcada115869c7121",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2FD81E90-91C4-441A-A0F3-E88F8B4C4FC6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D46DC1B7-1320-49C6-8CF4-AE4494B35C19",
+  "verticalSpacing": 0
+}

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9,
+  "changeIdentifier": 101,
   "do_objectID": "0478C366-85F9-490D-B8A4-567C657E57CA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,8 +45,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "996C1DC8-7BF1-4555-98AA-D14F04D74873"
+      "class": "shapeGroup",
+      "id": "6F916C2E-8DBB-4B55-9525-CA049E03D71D"
+    },
+    {
+      "class": "text",
+      "id": "0792B2EF-E8AB-4618-84FB-15BAF07F45FE"
+    },
+    {
+      "class": "text",
+      "id": "FD3127DC-C1F8-4976-BBBA-C3813396B05C"
     }
   ],
   "name": "input / desktop / member card / 2",
