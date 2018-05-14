@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 143,
+  "changeIdentifier": 152,
   "do_objectID": "2B9B745E-0F6F-413E-B0BF-E2AB90D2D707",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,8 +26,8 @@
     "do_objectID": "4BADB1E2-93BD-42BC-BC96-C7FA7B1CF946",
     "height": 40,
     "width": 96,
-    "x": 9551,
-    "y": 939
+    "x": 9550,
+    "y": 1765
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,11 +49,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "2CA913C9-9657-44E2-AA03-9514E8DE9960"
+      "class": "shapeGroup",
+      "id": "79B90D34-7828-4712-B07C-804433E9EB5C"
+    },
+    {
+      "class": "text",
+      "id": "D6AFD619-3E9F-4A0A-89B8-8D1AD62411D7"
     }
   ],
-  "name": "buttons / desktop / small / second / inactive",
+  "name": "buttons / desktop / medium / inactive",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

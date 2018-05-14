@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BC7DCD18-6FF6-4706-A5DB-CE6A8D23DE29",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "81E95E50-52EB-4DEE-8717-8D9A97D2B16A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9EA0C860-9F3E-41C9-B978-4F865887AD5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4688FBCD-6E0E-4140-AA03-7E5B0E7D889E",
+    "height": 1113,
+    "width": 375,
+    "x": 4807,
+    "y": -339
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "C1F3CF74-C2D8-471F-BC48-6B3FECAF6C32",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5818AC02-8557-4EF0-8FEB-6FE4441802D7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B3E53124-9933-4FDD-9B68-4CF21FE99C14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB9773F0-0C71-43A9-9F97-30A3853AE6B7"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "do_objectID": "67AB9AD4-4659-4A1C-891D-E2F23CAC13F2",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 4,
+    "totalWidth": 1140
+  },
+  "name": "First screen Mobile",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D858FB8D-BCB7-4108-BB50-328EC1643570",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "91BEE3EF-9C95-45E4-A2C6-14B7FFE60A15",
+    "guides": [
+    ]
+  }
+}

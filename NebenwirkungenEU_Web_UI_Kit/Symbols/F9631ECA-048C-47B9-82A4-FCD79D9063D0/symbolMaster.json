@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 30,
   "do_objectID": "F9631ECA-048C-47B9-82A4-FCD79D9063D0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 210,
-    "x": 13334,
-    "y": 1737
+    "x": 13539,
+    "y": 1863
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,8 +45,12 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "AC685663-FC8E-4A0D-9EFA-7FABA3A0A2C8"
+      "class": "shapeGroup",
+      "id": "80D215BC-C068-4515-89B0-C30C500E11B2"
+    },
+    {
+      "class": "text",
+      "id": "DDD98704-2638-4EC5-A036-901E506E9DE6"
     }
   ],
   "name": "input / tablet / subscription / default",

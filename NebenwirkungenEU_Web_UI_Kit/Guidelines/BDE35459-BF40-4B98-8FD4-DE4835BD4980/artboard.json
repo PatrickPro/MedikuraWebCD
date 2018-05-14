@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9803921568627451,
-    "do_objectID": "14C7F1B6-06A7-4E1D-9E53-361BDE23A3FF",
-    "green": 0.9803921568627451,
-    "red": 0.9803921568627451
+    "blue": 0.9764705882352941,
+    "green": 0.9725490196078431,
+    "red": 0.9529411764705882
   },
   "do_objectID": "BDE35459-BF40-4B98-8FD4-DE4835BD4980",
   "exportOptions": {
@@ -32,9 +31,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3458EDE2-4ECE-40A7-B78F-E337A0669C0C",
-    "height": 1741,
+    "height": 2174,
     "width": 1440,
-    "x": 4753,
+    "x": 4397,
     "y": -339
   },
   "hasBackgroundColor": true,
@@ -46,30 +45,26 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "B77AD73C-E237-4D53-BEEB-7DFFEA27641B"
+      "id": "50FD6C6F-7C2B-4807-A454-C18BA2318406"
     },
     {
       "class": "group",
-      "id": "2A2E1E5C-1B73-4E29-8442-F54086292054"
+      "id": "032A8D54-6277-4F49-A6C7-90717C946FF5"
     },
     {
       "class": "group",
-      "id": "6D62F53D-2CAF-4F95-A0A1-230FF7227E75"
-    },
-    {
-      "class": "group",
-      "id": "28B6D21B-4BF7-4686-A5D2-D4681DAF7B49"
+      "id": "35157E57-6B10-4C51-9E3C-D28BF120CDC8"
     }
   ],
   "layout": {

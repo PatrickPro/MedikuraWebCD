@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.98,
-    "do_objectID": "EB4BE412-7E01-4F81-9BA8-B3C159255BB5",
-    "green": 0.98,
-    "red": 0.98
+    "blue": 0.9764705882352941,
+    "green": 0.9725490196078431,
+    "red": 0.9529411764705882
   },
   "do_objectID": "D76A6F52-2A51-4D90-9590-191A724D77A7",
   "exportOptions": {
@@ -32,13 +31,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B687CC21-A4C1-49EE-9277-011D5D550C61",
-    "height": 1021,
-    "width": 1440,
-    "x": 8233,
+    "height": 888,
+    "width": 768,
+    "x": 6037,
     "y": -339
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,7 +45,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -57,11 +56,23 @@
   "layers": [
     {
       "class": "group",
-      "id": "B46299D7-23D9-4F94-854B-CE85F35A6FB2"
+      "id": "DCEFAAAC-E454-4F54-9059-4A46757E84E9"
     },
     {
       "class": "group",
-      "id": "97DD099A-A092-49F4-B097-E70032A9F95E"
+      "id": "8619EAF5-8719-4ADD-85CA-621BBE6C1506"
+    },
+    {
+      "class": "group",
+      "id": "26C4A0C4-F8CD-4315-9DDE-A8EBB9DD9930"
+    },
+    {
+      "class": "group",
+      "id": "7200C6A6-DE89-435E-954D-70D44005532C"
+    },
+    {
+      "class": "text",
+      "id": "BA9E17E3-F020-4E0E-8A5F-8E2408A52C5D"
     }
   ],
   "layout": {
@@ -80,8 +91,15 @@
     "rowHeightMultiplication": 2,
     "totalWidth": 1170
   },
-  "name": "Button Groups",
+  "name": "Other elements",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

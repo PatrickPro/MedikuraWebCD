@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9764705882352941,
-    "green": 0.9725490196078431,
-    "red": 0.9529411764705882
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "do_objectID": "A53916B0-0AFE-49BC-9A1A-1F5EB129B304",
   "exportOptions": {
@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 536,
+    "height": 865,
     "width": 1440,
     "x": -484,
     "y": -339
@@ -50,19 +50,23 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "37E4564F-824F-41F8-957F-F84A4FB5C67C"
+      "id": "CCB4EF32-D50D-4878-8401-7F9BAC2E2559"
     },
     {
       "class": "symbolInstance",
-      "id": "3FB0B672-7499-47DA-BD25-CACD6CD1F40A"
+      "id": "90A67242-4105-4AAE-86D2-55B43C03E281"
     },
     {
       "class": "symbolInstance",
-      "id": "ACFCCB58-A839-4B60-ABFC-499038A4D11C"
+      "id": "9FA73E48-994D-4AC9-B9D9-3523AFA05399"
     },
     {
       "class": "symbolInstance",
-      "id": "AD6F036E-2267-4E05-BF02-44D53331841B"
+      "id": "5CED3295-7DF6-428E-AB34-09AD1ACD7212"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A54C9B5E-7C73-4FE3-99C4-90E5338DE295"
     }
   ],
   "layout": {

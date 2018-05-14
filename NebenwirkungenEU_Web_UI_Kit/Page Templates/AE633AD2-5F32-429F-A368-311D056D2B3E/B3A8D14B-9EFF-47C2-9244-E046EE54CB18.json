@@ -26,26 +26,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Header / 1",
-  "nameIsFixed": false,
+  "name": "1-Desktop / 1-Landing / 1-Header",
+  "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "63E34CC4-DEF0-4FF7-9B06-ADC76F365854",
-      "overrideName": "B057CB68-8924-40D2-8FDD-8CDD3B0AD557_stringValue",
-      "value": " "
-    },
     {
       "_class": "overrideValue",
       "do_objectID": "EE3F1FA8-083A-46AF-A36A-94A5A85AB86D",
       "overrideName": "6B6C899D-381B-4A24-8D92-0FD94451CF0E_symbolID",
       "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "4CDD8737-48A6-4AC1-8559-7DBB24EB341D",
-      "overrideName": "04FFB8F4-1D82-4C78-99B2-0D3272510989_stringValue",
-      "value": " "
     },
     {
       "_class": "overrideValue",
@@ -67,17 +55,54 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "04A8EBB1-64F5-46DD-82BC-740C902783A7",
-      "overrideName": "4F016F1B-8FEC-41DA-B843-B8E59A8D7C49_symbolID",
+      "do_objectID": "B0D864DD-CC00-426D-859F-E58616B242DB",
+      "overrideName": "EE396128-245C-40A4-B3B5-2CBF8ABAB15F_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "518AF09B-D2B0-40BE-9C68-AA7D0E2C552D",
+      "overrideName": "CF8C5B3B-2F23-40ED-8E11-D1FAE3A345D0_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FD08A3C-3335-4ED3-ADA5-43B9B1986449",
+      "overrideName": "059649F0-8D12-4CA5-B8A4-BA9AE0A25ED2/7246B9B4-5EE0-4E6B-9421-D0D34B933B3B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAD388F0-352B-472D-821A-688B2C484652",
+      "overrideName": "2A7F896F-EF03-408F-B57D-5B66C54E81F9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5903920D-D002-417B-BF5C-D5599AB9EB8B",
+      "overrideName": "EE677ADA-4BE7-449F-A126-62DE28398025_symbolID",
+      "value": "531444BB-9EFD-46D0-9B4A-61F195D2A8E7"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5AB95F2-515D-4602-926B-1B77011FC4F2",
+      "overrideName": "408FF59D-B483-4917-82A4-6BFB1B0DEA93_symbolID",
       "value": ""
     }
   ],
   "overrides": {
-    "04FFB8F4-1D82-4C78-99B2-0D3272510989": " ",
+    "059649F0-8D12-4CA5-B8A4-BA9AE0A25ED2": {
+      "7246B9B4-5EE0-4E6B-9421-D0D34B933B3B": {
+        "symbolID": ""
+      }
+    },
+    "2A7F896F-EF03-408F-B57D-5B66C54E81F9": {
+      "symbolID": ""
+    },
     "3DEA9AC4-8A78-4D96-861A-4A68FB3D9462": {
       "symbolID": ""
     },
-    "4F016F1B-8FEC-41DA-B843-B8E59A8D7C49": {
+    "408FF59D-B483-4917-82A4-6BFB1B0DEA93": {
       "symbolID": ""
     },
     "64B6B219-6EEF-48EC-87F3-93249A3D4D76": {
@@ -86,9 +111,15 @@
     "6B6C899D-381B-4A24-8D92-0FD94451CF0E": {
       "symbolID": ""
     },
-    "B057CB68-8924-40D2-8FDD-8CDD3B0AD557": " ",
     "C686FC20-7DA8-4625-8CFC-DC8256B71C4D": {
       "symbolID": ""
+    },
+    "CF8C5B3B-2F23-40ED-8E11-D1FAE3A345D0": {
+      "symbolID": ""
+    },
+    "EE396128-245C-40A4-B3B5-2CBF8ABAB15F": " ",
+    "EE677ADA-4BE7-449F-A126-62DE28398025": {
+      "symbolID": "531444BB-9EFD-46D0-9B4A-61F195D2A8E7"
     }
   },
   "resizingConstraint": 63,

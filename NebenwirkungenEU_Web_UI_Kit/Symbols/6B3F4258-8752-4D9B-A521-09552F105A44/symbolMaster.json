@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 10,
+  "changeIdentifier": 27,
   "do_objectID": "6B3F4258-8752-4D9B-A521-09552F105A44",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 80,
-    "x": 10215,
-    "y": 280
+    "x": 10214,
+    "y": 940
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,15 +42,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "63AA454B-8F32-4708-A53F-C079703CD9E5"
+      "class": "shapeGroup",
+      "id": "A4A89088-9E03-49C8-8B77-7E82A034EF05"
+    },
+    {
+      "class": "text",
+      "id": "B53A2F6B-D1E0-4EFE-B962-CC10EBC20082"
     }
   ],
-  "name": "buttons / tablet / hash tag / active",
-  "nameIsFixed": false,
+  "name": "buttons / tablet / small / default",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A68B071C-CB8C-481E-9681-DD87017B2DF4",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "E60AD365-82DA-4D99-B2AD-541A170084B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90A8C191-18D2-4101-A3B6-0989F55BD830",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "673014E7-A391-4929-B9A6-B8FB639DE8F1",
+    "height": 712,
+    "width": 768,
+    "x": 12588,
+    "y": -339
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "2C201EB3-9A5E-4041-8204-1ACED0ACE6A1",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FF06967A-412E-41BF-8A71-E059E1D37762",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8F3036AD-F2D6-4EBA-858C-4BB069407E14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7ACCA865-C751-4B8C-957D-96231A62BC72"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "do_objectID": "09DE131B-B053-4E15-B060-C369843865AB",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 4,
+    "totalWidth": 1140
+  },
+  "name": "Report Tablet",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CD33132-869E-4882-ABCB-A55491307042",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "045EE895-A431-445F-B814-960773F2A586",
+    "guides": [
+    ]
+  }
+}

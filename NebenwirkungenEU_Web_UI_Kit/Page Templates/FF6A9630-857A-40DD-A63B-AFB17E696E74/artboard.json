@@ -36,7 +36,7 @@
     "thickGridTimes": 8
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -141,7 +141,6 @@
     "base": 0,
     "do_objectID": "75F7B98E-766B-428D-B375-86D92F146153",
     "guides": [
-      64
     ]
   }
 }

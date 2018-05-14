@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F800EFA6-5DF9-4A16-AFB3-4FCF0429ADA6",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "9C136673-3D99-4AF5-8285-FB0FECD14C13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "815109A9-3575-4BFC-B2A4-68ABE4DF9FA5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "164B4780-0064-4838-8126-EEA5600D48A4",
+    "height": 808,
+    "width": 375,
+    "x": 24989,
+    "y": -339
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "DDE4F52A-D4CF-474C-A22E-A821A6A832F1",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4B35D5AF-9DB9-40FC-AE37-82EC61460FC6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "342C5E69-1D39-472A-A92C-23DBB4DB1599"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EB70558-39F5-45A8-B646-90851136F629"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "do_objectID": "53F7B9D7-5947-4E1B-A6D6-5513630EF26C",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 4,
+    "totalWidth": 1140
+  },
+  "name": "Footer Mobile",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10E20181-EC76-4680-811B-A320FA919424",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9639FDDB-BF56-4DFC-A5F0-EAA472989D17",
+    "guides": [
+    ]
+  }
+}

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 117,
+  "changeIdentifier": 126,
   "do_objectID": "EFE3774D-4B97-4BD0-9BC9-2FC2DEB26EBF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 96,
-    "x": 9551,
-    "y": 799
+    "x": 9550,
+    "y": 1485
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,11 +45,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "DFC90F47-073D-49C7-80A8-E90061EC1855"
+      "class": "shapeGroup",
+      "id": "F34AEF62-6F36-448F-A557-067BB1F20D73"
+    },
+    {
+      "class": "text",
+      "id": "18215AAB-7605-40BF-98C8-F3607C66DF7A"
     }
   ],
-  "name": "buttons / desktop / small / main / default",
+  "name": "buttons / desktop / medium / default",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

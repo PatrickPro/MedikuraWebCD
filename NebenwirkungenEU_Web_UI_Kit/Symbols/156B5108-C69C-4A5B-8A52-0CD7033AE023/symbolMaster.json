@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 75,
+  "changeIdentifier": 87,
   "do_objectID": "156B5108-C69C-4A5B-8A52-0CD7033AE023",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 88,
-    "x": 10215,
-    "y": 528
+    "x": 10214,
+    "y": 420
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,15 +42,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "09147A52-F0DE-4B7C-8825-6952F2E5BF12"
+      "class": "shapeGroup",
+      "id": "BAA80E42-1727-46F5-A666-5239053E3AB9"
+    },
+    {
+      "class": "text",
+      "id": "118C98BE-6E08-4CBA-BCB2-35E4EA01FC92"
     }
   ],
-  "name": "buttons / tablet / small / default",
-  "nameIsFixed": false,
+  "name": "buttons / tablet / medium / default",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

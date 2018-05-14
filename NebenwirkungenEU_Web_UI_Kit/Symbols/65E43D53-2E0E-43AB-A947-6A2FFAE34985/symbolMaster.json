@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 49,
+  "changeIdentifier": 68,
   "do_objectID": "65E43D53-2E0E-43AB-A947-6A2FFAE34985",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,11 +42,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "D3908F4A-7EB4-4CCC-B973-C1CF2294CED3"
+      "class": "symbolInstance",
+      "id": "B776BDCB-C657-4754-97C9-C54F07589EAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76B47E02-CBFB-4D1E-924A-8C4CACEBCB2E"
+    },
+    {
+      "class": "text",
+      "id": "47F0D598-E268-42F9-A40E-A7F640C0F93E"
     }
   ],
   "name": "1-Desktop / 1-Landing / 4-Search / 2",

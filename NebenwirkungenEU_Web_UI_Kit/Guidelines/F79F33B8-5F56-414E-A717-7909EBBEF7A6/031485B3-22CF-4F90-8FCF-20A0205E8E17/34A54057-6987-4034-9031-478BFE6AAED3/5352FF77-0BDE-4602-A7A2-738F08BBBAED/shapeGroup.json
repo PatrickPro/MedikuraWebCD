@@ -41,52 +41,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "do_objectID": "4A43FB7A-8EB1-450F-BA8A-D50F63EC1D9F",
-    "endDecorationType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 0,
-        "patternTileScale": 1
-      }
-    ],
-    "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 20,
-        "color": {
-          "_class": "color",
-          "alpha": 0.05,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 5,
-        "spread": 0
-      }
-    ],
-    "sharedObjectID": "AD8F0B37-B4AE-4E47-97C1-A42B672F614B",
-    "startDecorationType": 0
+    "sharedObjectID": "AD8F0B37-B4AE-4E47-97C1-A42B672F614B"
   },
   "windingRule": 1
 }

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 19,
   "do_objectID": "61EB40AC-8BCE-4907-9DAC-49FB487345A7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 255,
-    "x": 11639,
-    "y": 4131
+    "x": 11844,
+    "y": 4673
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,8 +45,12 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "F1CED0D1-777D-4022-8FBD-3D777C864BEF"
+      "class": "shapeGroup",
+      "id": "61B11F78-3DC2-449A-B5DB-7E964DE04540"
+    },
+    {
+      "class": "text",
+      "id": "FC072D61-7B72-4D52-AF22-9DD3EA4A8E2E"
     }
   ],
   "name": "input / desktop / subscription / default",
