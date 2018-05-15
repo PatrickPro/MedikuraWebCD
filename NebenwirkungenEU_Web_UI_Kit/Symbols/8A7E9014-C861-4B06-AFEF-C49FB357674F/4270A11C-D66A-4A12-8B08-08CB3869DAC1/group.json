@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "4270A11C-D66A-4A12-8B08-08CB3869DAC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 206,
+    "width": 345,
+    "x": 15,
+    "y": 85
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3AE6FCEC-9126-49D3-AE10-4C6A7350CF3A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5DC6520-3801-4A98-ACA8-49A07DA89BEE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC6FF498-DB91-4FA3-B4D3-9DDDA5A328A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "210E4DF5-7C21-4F98-8F99-78DD08AFB415"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3D5DA942-2B86-42B3-8A0D-EF14B5D1CF3E"
+    }
+  ],
+  "name": "grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.339759332580583,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

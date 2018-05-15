@@ -29,8 +29,19 @@
   "name": "2-Tablet / 1-Landing / 4-Search / 1",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9FB332D-58D7-4906-A26F-5EFF66EBBC32",
+      "overrideName": "8A03A451-3415-4588-827C-93EF3363E016/6DAF9221-DFE7-4427-9212-374C5D164123_symbolID",
+      "value": "2D9502D5-925E-414B-A7EE-54C4E4023249"
+    }
   ],
   "overrides": {
+    "8A03A451-3415-4588-827C-93EF3363E016": {
+      "6DAF9221-DFE7-4427-9212-374C5D164123": {
+        "symbolID": "2D9502D5-925E-414B-A7EE-54C4E4023249"
+      }
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

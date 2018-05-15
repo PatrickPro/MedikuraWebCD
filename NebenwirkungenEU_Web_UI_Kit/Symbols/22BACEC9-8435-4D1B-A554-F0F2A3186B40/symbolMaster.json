@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 7,
+  "changeIdentifier": 156,
   "do_objectID": "22BACEC9-8435-4D1B-A554-F0F2A3186B40",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 521,
+    "height": 482,
     "width": 920,
-    "x": 16463,
-    "y": 0
+    "x": 15672,
+    "y": 572
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -51,10 +51,14 @@
     {
       "class": "group",
       "id": "8A2D1B42-8BD9-49BF-BF3F-3CB75CA2ABB7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22F8D014-380D-4639-974C-4563CE5C0CCD"
     }
   ],
-  "name": "other components / graph",
-  "nameIsFixed": false,
+  "name": "other components / graph / tablet",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

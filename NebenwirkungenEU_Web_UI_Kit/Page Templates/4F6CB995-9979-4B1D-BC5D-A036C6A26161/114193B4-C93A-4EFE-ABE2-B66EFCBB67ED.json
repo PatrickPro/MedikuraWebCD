@@ -29,8 +29,17 @@
   "name": "2-Tablet / 1-Landing / 2-First Screen / 1",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56697E85-D72A-4682-9A5A-16AAF7B26D01",
+      "overrideName": "760B931D-9996-4FA2-993D-1CD3CB1E3BF0_symbolID",
+      "value": "5073F8DC-5D13-4F3D-A883-337C5FEC7A30"
+    }
   ],
   "overrides": {
+    "760B931D-9996-4FA2-993D-1CD3CB1E3BF0": {
+      "symbolID": "5073F8DC-5D13-4F3D-A883-337C5FEC7A30"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

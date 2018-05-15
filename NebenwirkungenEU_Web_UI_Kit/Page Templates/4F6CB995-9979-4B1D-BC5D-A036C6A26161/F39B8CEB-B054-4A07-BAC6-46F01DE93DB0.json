@@ -29,8 +29,17 @@
   "name": "2-Tablet / 1-Landing / 3-CTA / 1",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "601D4832-D41A-4A06-9D88-C40B8A45BF38",
+      "overrideName": "C338C999-A3DB-4DE0-802F-D45ED291A19A_symbolID",
+      "value": "5073F8DC-5D13-4F3D-A883-337C5FEC7A30"
+    }
   ],
   "overrides": {
+    "C338C999-A3DB-4DE0-802F-D45ED291A19A": {
+      "symbolID": "5073F8DC-5D13-4F3D-A883-337C5FEC7A30"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

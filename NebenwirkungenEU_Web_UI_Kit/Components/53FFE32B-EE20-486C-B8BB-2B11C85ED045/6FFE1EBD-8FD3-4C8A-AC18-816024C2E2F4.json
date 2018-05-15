@@ -29,8 +29,42 @@
   "name": "other components / team / desktop / 2",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "784B9E7D-D9EA-42F1-B09D-9CBC86F62619",
+      "overrideName": "B1E45F95-CB3F-4466-B0AB-0F6BD344A36E/0792B2EF-E8AB-4618-84FB-15BAF07F45FE_stringValue",
+      "value": "Tobias Nendel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DB9BB33-9A1D-4DE4-8942-94603C79F76C",
+      "overrideName": "08290CD9-47F2-45FD-9F67-BC22EE8C2C4D/0792B2EF-E8AB-4618-84FB-15BAF07F45FE_stringValue",
+      "value": "Friderike Bruchmann"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4933FD75-7870-459E-98D0-B95EE2268A88",
+      "overrideName": "1440E83F-01AA-4609-BE0E-E6B146820992/0792B2EF-E8AB-4618-84FB-15BAF07F45FE_stringValue",
+      "value": "Oleksandr Kniaziuk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "89C528DC-892B-408B-AC55-4138EB055498",
+      "overrideName": "1440E83F-01AA-4609-BE0E-E6B146820992/FD3127DC-C1F8-4976-BBBA-C3813396B05C_stringValue",
+      "value": "UI/UX Designer"
+    }
   ],
   "overrides": {
+    "08290CD9-47F2-45FD-9F67-BC22EE8C2C4D": {
+      "0792B2EF-E8AB-4618-84FB-15BAF07F45FE": "Friderike Bruchmann"
+    },
+    "1440E83F-01AA-4609-BE0E-E6B146820992": {
+      "0792B2EF-E8AB-4618-84FB-15BAF07F45FE": "Oleksandr Kniaziuk",
+      "FD3127DC-C1F8-4976-BBBA-C3813396B05C": "UI/UX Designer"
+    },
+    "B1E45F95-CB3F-4466-B0AB-0F6BD344A36E": {
+      "0792B2EF-E8AB-4618-84FB-15BAF07F45FE": "Tobias Nendel"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

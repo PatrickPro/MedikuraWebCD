@@ -29,8 +29,17 @@
   "name": "3-Mobile / 1-Landing / 2-First Screen / 1",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15D66DB8-0407-4EDC-A12E-F62CC8E031FF",
+      "overrideName": "C2391F97-B364-4C76-904E-808AF8241CEE_symbolID",
+      "value": "19536A93-58C1-42F5-9E5D-17539304E949"
+    }
   ],
   "overrides": {
+    "C2391F97-B364-4C76-904E-808AF8241CEE": {
+      "symbolID": "19536A93-58C1-42F5-9E5D-17539304E949"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

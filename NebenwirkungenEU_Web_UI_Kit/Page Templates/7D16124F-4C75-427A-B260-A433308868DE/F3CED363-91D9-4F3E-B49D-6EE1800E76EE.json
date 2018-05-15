@@ -29,8 +29,17 @@
   "name": "3-Mobile / 1-Landing / 3-CTA / 1",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A44A14CB-C150-4A45-B910-40020963A221",
+      "overrideName": "D4A5B51E-3773-4AD6-969B-D4CAE0B96249_symbolID",
+      "value": "19536A93-58C1-42F5-9E5D-17539304E949"
+    }
   ],
   "overrides": {
+    "D4A5B51E-3773-4AD6-969B-D4CAE0B96249": {
+      "symbolID": "19536A93-58C1-42F5-9E5D-17539304E949"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 10,
+  "changeIdentifier": 26,
   "do_objectID": "170D3D3B-44BF-4023-8A15-FCC880DCBBA4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 655,
     "width": 375,
-    "x": 7825,
-    "y": 10401
+    "x": 18432,
+    "y": 1172
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,15 +42,31 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "01D56A86-9662-489B-B122-637B85FC12E2"
+      "class": "text",
+      "id": "BDA31435-B07C-4722-B65D-41408191597E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE3351C7-E7DF-4CF6-8AB3-04BFBD7627C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C0BA304-627E-4B53-8200-0FE4CA09BA7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5F16931-2891-4E76-BA9A-DAE9B6059633"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0099AFA9-5F57-4D8D-9E31-17382F87CED6"
     }
   ],
-  "name": "other components / team / mobile",
-  "nameIsFixed": false,
+  "name": "other components / team / mobile / 1",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

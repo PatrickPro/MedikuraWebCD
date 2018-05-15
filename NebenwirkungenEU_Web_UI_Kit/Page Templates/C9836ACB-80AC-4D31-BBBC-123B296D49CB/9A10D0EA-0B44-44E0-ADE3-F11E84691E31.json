@@ -27,8 +27,17 @@
   "name": "1-Desktop / 1-Landing / 3-CTA / 2",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F93D8A48-D7FB-499A-8ABF-52194D0692EB",
+      "overrideName": "6EFD2DD9-7C30-4A38-91E8-B3437AD41EC2_symbolID",
+      "value": "0D37E780-510A-4ECE-97EA-D1EDA315782E"
+    }
   ],
   "overrides": {
+    "6EFD2DD9-7C30-4A38-91E8-B3437AD41EC2": {
+      "symbolID": "0D37E780-510A-4ECE-97EA-D1EDA315782E"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

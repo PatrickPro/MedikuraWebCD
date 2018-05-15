@@ -27,8 +27,19 @@
   "name": "1-Desktop / 3-Database / 2-Search / 1",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1BBFD796-00B8-4622-82F3-AFB19572F7AE",
+      "overrideName": "4E642DC5-E638-44A1-AEA3-9B6FCC05605F/2EC08024-F428-40FA-AAC6-175692A3898F_symbolID",
+      "value": "4999A3FC-3B9D-4C66-B003-5C26CACE2E7B"
+    }
   ],
   "overrides": {
+    "4E642DC5-E638-44A1-AEA3-9B6FCC05605F": {
+      "2EC08024-F428-40FA-AAC6-175692A3898F": {
+        "symbolID": "4999A3FC-3B9D-4C66-B003-5C26CACE2E7B"
+      }
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

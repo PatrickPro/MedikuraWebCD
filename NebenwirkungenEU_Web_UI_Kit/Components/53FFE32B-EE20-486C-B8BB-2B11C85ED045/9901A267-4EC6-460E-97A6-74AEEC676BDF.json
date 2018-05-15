@@ -27,8 +27,25 @@
   "name": "other components / team / desktop",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F4ECFAC-FDD7-402B-A56B-4A5446D95631",
+      "overrideName": "611B1607-1842-41FF-961F-DCA2994DD729/A9966141-4D55-465A-A4DD-80DF3CD51E1C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e5b71fa94ae9b32c91295a83dcada115869c7121",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "overrides": {
+    "611B1607-1842-41FF-961F-DCA2994DD729": {
+      "A9966141-4D55-465A-A4DD-80DF3CD51E1C": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e5b71fa94ae9b32c91295a83dcada115869c7121",
+        "_ref_class": "MSImageData"
+      }
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
