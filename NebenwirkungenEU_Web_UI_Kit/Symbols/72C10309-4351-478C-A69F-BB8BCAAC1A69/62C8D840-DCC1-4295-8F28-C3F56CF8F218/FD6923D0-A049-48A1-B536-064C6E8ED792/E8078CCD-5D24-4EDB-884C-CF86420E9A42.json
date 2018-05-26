@@ -1,10 +1,39 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIjAzOT1BSUpLTE1RVWFiY2RlZmdoaWtsVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADWURhdGVuYmFua9MREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADIAUgB6AHV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtgKIyQlJicoKSorLCwuLy8uWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvboALgACACYAJEAEjQDIAAAAAAADSEgoxMqCACtI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaI2OFhOU09iamVjdNI0NTo7XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjOjw4XxAQTlNQYXJhZ3JhcGhTdHlsZdIKPj9AXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xESCkJFSKJDRIAOgA+iRkeAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QEE9wZW5TYW5zLVJlZ3VsYXLSNDVOT18QE05TTXV0YWJsZURpY3Rpb25hcnmjTlA4XE5TRGljdGlvbmFyedI0NVJTXxAQTlNGb250RGVzY3JpcHRvcqJUOF8QEE5TRm9udERlc2NyaXB0b3LTERIKVlsdpFdYWVqAFYAWgBeAGKRcXV5fgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/sRERERERECM/8AAAAAAAACM/4FBQUFBQUCM/3l5eXl5eWtI0NVBqolA4Iz/jMzNAAAAA0jQ1bW5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeibzhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcnNUcm9vdIABAAgAEQAaACMALQAyADcAWgBgAGcAcAB3AIQAhgCIAIoAlACbAKMArgCzALUAtwC5ALsAwADCAMQAxgDIAMoA3QD/ASwBMwFEAU8BWwFoAYoBnAGuAcMBxQHHAckBywHNAdYB2wHcAd4B4wHuAfcB/wICAgsCEAIqAi4CQQJGAmMCZQJnAm4CcQJzAnUCeAJ6AnwCfgKUAqoCswLGAssC4QLlAvIC9wMKAw0DIAMnAywDLgMwAzIDNAM5AzsDPQM/A0EDQwNHA00DUgNYA2EDagNzA3wDgQOEA40DkgOnA6oDvwPRA9QD2QAAAAAAAAIBAAAAAAAAAHQAAAAAAAAAAAAAAAAAAAPb"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666665
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 12
+            }
+          },
+          "kerning": 0.6000000238418579,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
+          }
+        },
+        "length": 9,
+        "location": 0
+      }
+    ],
+    "string": "Datenbank"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E8078CCD-5D24-4EDB-884C-CF86420E9A42",

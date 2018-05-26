@@ -35,7 +35,7 @@
       "overrideName": "F8F7647B-BF7D-469A-984E-4DC219DEC447/4D3F5282-BC2B-4E34-A476-2C7BCD08567E_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/d778e1a38062d2bb27616f304882bbdb52be1638",
+        "_ref": "images/d778e1a38062d2bb27616f304882bbdb52be1638.png",
         "_ref_class": "MSImageData"
       }
     },
@@ -45,7 +45,7 @@
       "overrideName": "AD2CA364-73AD-4592-AB37-FB868F7D0A84/4D3F5282-BC2B-4E34-A476-2C7BCD08567E_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/2c4f3633f2765b91a7dfba578a88c93b8be148e4",
+        "_ref": "images/2c4f3633f2765b91a7dfba578a88c93b8be148e4.png",
         "_ref_class": "MSImageData"
       }
     },
@@ -55,34 +55,11 @@
       "overrideName": "8B820046-FE06-42E5-99CE-112B08D3206E/CB8F39FA-2BB0-4B52-8198-9134FEC421BF_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/d278a8a1f051bc194fd252f18947e40ea2220a69",
+        "_ref": "images/d278a8a1f051bc194fd252f18947e40ea2220a69.png",
         "_ref_class": "MSImageData"
       }
     }
   ],
-  "overrides": {
-    "8B820046-FE06-42E5-99CE-112B08D3206E": {
-      "CB8F39FA-2BB0-4B52-8198-9134FEC421BF": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/d278a8a1f051bc194fd252f18947e40ea2220a69",
-        "_ref_class": "MSImageData"
-      }
-    },
-    "AD2CA364-73AD-4592-AB37-FB868F7D0A84": {
-      "4D3F5282-BC2B-4E34-A476-2C7BCD08567E": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/2c4f3633f2765b91a7dfba578a88c93b8be148e4",
-        "_ref_class": "MSImageData"
-      }
-    },
-    "F8F7647B-BF7D-469A-984E-4DC219DEC447": {
-      "4D3F5282-BC2B-4E34-A476-2C7BCD08567E": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/d778e1a38062d2bb27616f304882bbdb52be1638",
-        "_ref_class": "MSImageData"
-      }
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

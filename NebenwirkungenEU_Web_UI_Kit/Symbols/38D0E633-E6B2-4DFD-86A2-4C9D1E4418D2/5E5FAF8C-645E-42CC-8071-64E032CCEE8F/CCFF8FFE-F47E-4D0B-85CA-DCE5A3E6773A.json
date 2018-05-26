@@ -1,10 +1,38 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "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"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666665
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 10
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          }
+        },
+        "length": 250,
+        "location": 0
+      }
+    ],
+    "string": "Im ersten Schritt fragen wir Sie nach Ihren Nebenwirkungen und Medikamenten. Diese Eingaben sind für eine gültige Nebenwirkungsmeldung essentiell. Bitte geben Sie auch Ihre E-Mail-Adresse an, damit wir Sie bei wichtigen Rückfragen kontaktieren können"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "CCFF8FFE-F47E-4D0B-85CA-DCE5A3E6773A",

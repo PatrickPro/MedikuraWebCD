@@ -1,10 +1,64 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGr7BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMQcIERIYJSYnKCk0Nz1BRU1OT1BRVVllZmdoaWprbG1vcHx9foOGjo+QkZ2en6Cjp6tVJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgC6AA4AwbxBYAFcAZQBuAG4AIABTAGkAZQAgAGUAaQBuAGUAIABOAGUAYgBlAG4AdwBpAHIAawB1AG4AZwBlAG4AIABtAGkAdAAgAEEAbQBvAHgAaQBjAGkAbABsAGkAbgAgAGgAYQBiAGUAbgAsACAAawD2AG4AbgBlAG4AIABTAGkAZQAgAGQAaQBlAHMAZQAgAGgAaQBlAHIAIABEAGkAcgBlAGsAdAAgAE0AZQBsAGQAZQBuAC7SEwwUF1pOUy5vYmplY3RzohUWgASAIIAt0xkTDBofJFdOUy5rZXlzpBscHR6ABYAGgAeACKQgISIjgAmADYAVgB+AHl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtYqKwwsLS4vMDEyMDJaTlNUYWJTdG9wc18QEk5TV3JpdGluZ0RpcmVjdGlvblxOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uW05TVGV4dExpc3RzgAAQAYAMgAqACtITDDU2oIAL0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojo8WE5TT2JqZWN00jg5Pj9fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM+QDxfEBBOU1BhcmFncmFwaFN0eWxl0gxCQ0RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TGRMMRklMokdIgA+AEKJKS4ARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AkAAAAAAAAXxAQT3BlblNhbnMtUmVndWxhctI4OVJTXxATTlNNdXRhYmxlRGljdGlvbmFyeaNSVDxcTlNEaWN0aW9uYXJ50jg5VldfEBBOU0ZvbnREZXNjcmlwdG9yolg8XxAQTlNGb250RGVzY3JpcHRvctMZEwxaXySkW1xdXoAWgBeAGIAZpGBhYmOAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz+xEREREREQIz/wAAAAAAAAIz/gUFBQUFBQIz/eXl5eXl5a0jg5VG6iVDwjAAAAAAAAAADTGRMMcXYkpBtzdB6ABYAhgCKACKR3eHkjgCOAJIApgB+AHl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGXWKisMLC0uLzAxMjAygACADIAKgArSDEJDhYAUgCXTGRMMh4pMooiJgCaAJ6JKjIARgCiAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlXxAQT3BlblNhbnMtUmVndWxhctMZEwySlySkW1xdXoAWgBeAGIAZpJhhmpuAKoAbgCuALIAeIz/h0dHR0dHSIz/QUFBQUFBQIz+0FBQUFBQW0jg5oaJeTlNNdXRhYmxlQXJyYXmjoTo80qQMpaZXTlMuZGF0YURKAA4BgC/SODmoqV1OU011dGFibGVEYXRho6iqPFZOU0RhdGHSODmsrV8QEk5TQXR0cmlidXRlZFN0cmluZ6KuPF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctGxslRyb290gAEACAARABoAIwAtADIANwBrAHEAegCDAJUAogCpAKsArQCvALEBZAFpAXQBdwF5AXsBfQGEAYwBkQGTAZUBlwGZAZ4BoAGiAaQBpgGoAbsB3QIKAhECHgIpAj4CSwJtAnkCewJ9An8CgQKDAogCiQKLApACmwKkAqwCrwK4Ar0C1wLbAu4C8wMQAxIDFAMbAx4DIAMiAyUDJwMpAysDQQNXA2ADcwN4A44DkgOfA6QDtwO6A80D1APZA9sD3QPfA+ED5gPoA+oD7APuA/AD9AP6A/8EBQQOBBcEIAQpBC4EMQQ6BEEERgRIBEoETAROBFMEVQRXBFkEWwRdBH8ErAS5BLsEvQS/BMEExgTIBMoE0QTUBNYE2ATbBN0E3wThBPcFDQUgBScFLAUuBTAFMgU0BTkFOwU9BT8FQQVDBUwFVQVeBWMFcgV2BXsFgwWIBYoFjwWdBaEFqAWtBcIFxQXaBewF7wX0AAAAAAAAAgEAAAAAAAAAswAAAAAAAAAAAAAAAAAABfY="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666665
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 10
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0
+          }
+        },
+        "length": 74,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2549019607843137,
+            "green": 0.07843137254901963,
+            "red": 0.5568627450980392
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 10
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0
+          }
+        },
+        "length": 14,
+        "location": 74
+      }
+    ],
+    "string": "Wenn Sie eine Nebenwirkungen mit Amoxicillin haben, können Sie diese hier Direkt Melden."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C8AC69E1-F8FE-41D6-A428-8B47B5E7CF94",

@@ -1,10 +1,39 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcnNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIjI1Oz9DS0xNTk9TV2NkZWZnaGlqa21uVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADbxA1AFcAYQBzACAAYgBlAGQAZQB1AHQAZQBuACAAZABpAGUAIABIAOQAdQBmAGkAZwBrAGUAaQB0AHMAYQBuAGcAYQBiAGUAbgAgAGkAbQAgAEIAZQBpAHAAYQBjAGsAegBlAHQAdABlAGwAP9MREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADIAUgB6AHV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtkKIyQlJicoKSorLC0tLzAvMDFaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9uW05TQWxpZ25tZW50gAuAAIAJgAkjQEMAAAAAAAAQARAC0hIKMzSggArSNjc4OVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiODpYTlNPYmplY3TSNjc8PV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozw+Ol8QEE5TUGFyYWdyYXBoU3R5bGXSCkBBQl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgpER0qiRUaADoAPokhJgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDgAAAAAAABdT3BlblNhbnMtQm9sZNI2N1BRXxATTlNNdXRhYmxlRGljdGlvbmFyeaNQUjpcTlNEaWN0aW9uYXJ50jY3VFVfEBBOU0ZvbnREZXNjcmlwdG9yolY6XxAQTlNGb250RGVzY3JpcHRvctMREgpYXR2kWVpbXIAVgBaAF4AYpF5fYGGAGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIz+xEREREREQIz/wAAAAAAAAIz/gUFBQUFBQIz/eXl5eXl5a0jY3UmyiUjojP9mZmaAAAADSNjdvcF8QEk5TQXR0cmlidXRlZFN0cmluZ6JxOl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF0dVRyb290gAEACAARABoAIwAtADIANwBaAGAAZwBwAHcAhACGAIgAigD3AP4BBgERARYBGAEaARwBHgEjASUBJwEpASsBLQFAAWIBjwGWAakBtAHBAc0B3wIBAhMCKAI0AjYCOAI6AjwCRQJHAkkCTgJPAlECVgJhAmoCcgJ1An4CgwKdAqECtAK5AtYC2ALaAuEC5ALmAugC6wLtAu8C8QMHAx0DJgM0AzkDTwNTA2ADZQN4A3sDjgOVA5oDnAOeA6ADogOnA6kDqwOtA68DsQO1A7sDwAPGA88D2APhA+oD7wPyA/sEAAQVBBgELQQ/BEIERwAAAAAAAAIBAAAAAAAAAHYAAAAAAAAAAAAAAAAAAARJ"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666665
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 24
+            }
+          },
+          "kerning": 0.4000000059604645,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 38,
+            "minimumLineHeight": 38
+          }
+        },
+        "length": 53,
+        "location": 0
+      }
+    ],
+    "string": "Was bedeuten die Häufigkeitsangaben im Beipackzettel?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FC22DCC3-23D1-4931-9769-8C7D486AA810",

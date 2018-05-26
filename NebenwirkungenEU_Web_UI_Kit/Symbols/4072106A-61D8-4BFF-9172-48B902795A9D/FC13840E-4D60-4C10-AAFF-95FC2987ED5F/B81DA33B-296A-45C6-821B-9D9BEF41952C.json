@@ -1,10 +1,39 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIjAzOT1BSUpLTE1RVWFiY2RlZmdoaWtsVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxAtU29sbCBpY2ggYXVjaCBiZWthbm50ZSBOZWJlbndpcmt1bmdlbiBtZWxkZW4/0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAHoAdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu2AojJCUmJygpKissLC4vLy5aTlNUYWJTdG9wc1tOU1RleHRMaXN0c1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9ugAuAAIAJgAkQASNAMgAAAAAAANISCjEyoIAK0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojY4WE5TT2JqZWN00jQ1OjtfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM6PDhfEBBOU1BhcmFncmFwaFN0eWxl0go+P0BfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKQkVIokNEgA6AD6JGR4AQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AoAAAAAAAAXU9wZW5TYW5zLUJvbGTSNDVOT18QE05TTXV0YWJsZURpY3Rpb25hcnmjTlA4XE5TRGljdGlvbmFyedI0NVJTXxAQTlNGb250RGVzY3JpcHRvcqJUOF8QEE5TRm9udERlc2NyaXB0b3LTERIKVlsdpFdYWVqAFYAWgBeAGKRcXV5fgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/sRERERERECM/8AAAAAAAACM/4FBQUFBQUCM/3l5eXl5eWtI0NVBqolA4Iz/ZmZmgAAAA0jQ1bW5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeibzhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcnNUcm9vdIABAAgAEQAaACMALQAyADcAWgBgAGcAcAB3AIQAhgCIAIoAugDBAMkA1ADZANsA3QDfAOEA5gDoAOoA7ADuAPABAwElAVIBWQFqAXUBgQGOAbABwgHUAekB6wHtAe8B8QHzAfwCAQICAgQCCQIUAh0CJQIoAjECNgJQAlQCZwJsAokCiwKNApQClwKZApsCngKgAqICpAK6AtAC2QLnAuwDAgMGAxMDGAMrAy4DQQNIA00DTwNRA1MDVQNaA1wDXgNgA2IDZANoA24DcwN5A4IDiwOUA50DogOlA64DswPIA8sD4APyA/UD+gAAAAAAAAIBAAAAAAAAAHQAAAAAAAAAAAAAAAAAAAP8"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666665
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 12
+            }
+          },
+          "kerning": 0.4000000059604645,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
+          }
+        },
+        "length": 45,
+        "location": 0
+      }
+    ],
+    "string": "Soll ich auch bekannte Nebenwirkungen melden?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B81DA33B-296A-45C6-821B-9D9BEF41952C",

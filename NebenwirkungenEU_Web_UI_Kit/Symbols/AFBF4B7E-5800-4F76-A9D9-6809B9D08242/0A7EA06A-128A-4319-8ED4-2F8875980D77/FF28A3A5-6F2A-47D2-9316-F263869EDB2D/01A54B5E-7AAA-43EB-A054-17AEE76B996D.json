@@ -1,10 +1,39 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcnNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIjI1Oz9DS0xNTk9TV2NkZWZnaGlqa21uVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADbxBAAFcAaQBlACAAUwBpAGUAIABkAGUAbgAgAEkAbgBoAGEAbAB0ACAAZABlAHMAIABCAGUAaQBwAGEAYwBrAHoAZQB0AHQAZQBsAHMAIABzAGUAbABiAHMAdAAgAGIAZQBlAGkAbgBmAGwAdQBzAHMAZQBuACAAawD2AG4AbgBlAG7TERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAegB1fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7ZCiMkJSYnKCkqKywtLS8wLzAxWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvbltOU0FsaWdubWVudIALgACACYAJI0BDAAAAAAAAEAEQAtISCjM0oIAK0jY3ODlaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojg6WE5TT2JqZWN00jY3PD1fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM8PjpfEBBOU1BhcmFncmFwaFN0eWxl0gpAQUJfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKREdKokVGgA6AD6JISYAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A4AAAAAAAAXU9wZW5TYW5zLUJvbGTSNjdQUV8QE05TTXV0YWJsZURpY3Rpb25hcnmjUFI6XE5TRGljdGlvbmFyedI2N1RVXxAQTlNGb250RGVzY3JpcHRvcqJWOl8QEE5TRm9udERlc2NyaXB0b3LTERIKWF0dpFlaW1yAFYAWgBeAGKReX2BhgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/sRERERERECM/8AAAAAAAACM/4FBQUFBQUCM/3l5eXl5eWtI2N1JsolI6Iz/ZmZmgAAAA0jY3b3BfEBJOU0F0dHJpYnV0ZWRTdHJpbmeicTpfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRdHVUcm9vdIABAAgAEQAaACMALQAyADcAWgBgAGcAcAB3AIQAhgCIAIoBDQEUARwBJwEsAS4BMAEyATQBOQE7AT0BPwFBAUMBVgF4AaUBrAG/AcoB1wHjAfUCFwIpAj4CSgJMAk4CUAJSAlsCXQJfAmQCZQJnAmwCdwKAAogCiwKUApkCswK3AsoCzwLsAu4C8AL3AvoC/AL+AwEDAwMFAwcDHQMzAzwDSgNPA2UDaQN2A3sDjgORA6QDqwOwA7IDtAO2A7gDvQO/A8EDwwPFA8cDywPRA9YD3APlA+4D9wQABAUECAQRBBYEKwQuBEMEVQRYBF0AAAAAAAACAQAAAAAAAAB2AAAAAAAAAAAAAAAAAAAEXw=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666665
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 24
+            }
+          },
+          "kerning": 0.4000000059604645,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 38,
+            "minimumLineHeight": 38
+          }
+        },
+        "length": 64,
+        "location": 0
+      }
+    ],
+    "string": "Wie Sie den Inhalt des Beipackzettels selbst beeinflussen können"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "01A54B5E-7AAA-43EB-A054-17AEE76B996D",
