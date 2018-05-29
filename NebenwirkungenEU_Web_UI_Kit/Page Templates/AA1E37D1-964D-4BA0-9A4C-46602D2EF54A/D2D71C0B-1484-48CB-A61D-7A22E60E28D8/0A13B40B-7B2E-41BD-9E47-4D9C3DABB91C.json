@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666665
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0.2000000029802322,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          }
+        },
+        "length": 931,
+        "location": 0
+      }
+    ],
+    "string": "Was hier bereits deutlich wird: die Häufigkeitsangaben beziehen sich auf alle Behandelten und unterscheiden daher nicht zwischen den verschiedenen Patientengruppen, wie beispielsweise Kinder, Schwangere, Patienten mit chronischen Krankheiten, wie Rheuma oder Depressionen.\n\nHinzu kommt, dass die Häufigkeitsangaben der meisten Arzneimittel auf Hochrechnungen beruhen. Das bedeutet, dass die Anzahl der gemeldeten Nebenwirkungen im Verhältnis zur verkauften Menge der Medikamente gesetzt wird. Da wir mittlerweile wissen, dass weniger als 1% aller vermuteten Nebenwirkungen offiziell gemeldet werden, sind die meisten Häufigkeitsangaben als Untergrenze zu verstehen. Auch ist davon auszugehen, dass längst nicht alle unerwünschten Arzneimittelwirkungen bekannt und daher im Beipackzettel aufgelistet sind. Wenn Patienten öfter ihre Beschwerden melden, können die Häufigkeitsangaben in Packungsbeilagen immer besser angepasst werden."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "0A13B40B-7B2E-41BD-9E47-4D9C3DABB91C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50BD1603-AAF7-4427-B5D3-09AFFF519275",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "209F57FB-3E46-4F26-BAEB-F1B547361F8F",
+    "height": 220,
+    "width": 920,
+    "x": 260,
+    "y": 543
+  },
+  "glyphBounds": "{{0, 5}, {914, 213}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Was hier bereits deu",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19270B4E-BFEE-425E-99C7-5242BB8902E3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "EF1B112A-0D98-4BB5-94B2-DA92E2995040",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "3B75B80E-3E8D-4463-9095-7E2D28838E92",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5098039215686274,
+          "green": 0.4745098039215684,
+          "red": 0.06666666666666665
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0.2000000029802322,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}
