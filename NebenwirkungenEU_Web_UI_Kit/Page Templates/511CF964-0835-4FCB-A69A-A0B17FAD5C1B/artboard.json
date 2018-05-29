@@ -32,7 +32,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B52524E9-A224-43AC-82D4-5D5A9B9E3FC2",
-    "height": 5863,
+    "height": 5664,
     "width": 1440,
     "x": -333,
     "y": 4630
@@ -45,7 +45,7 @@
     "thickGridTimes": 8
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -73,8 +73,12 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "group",
+      "id": "E0841A80-8925-40F8-AED9-ECD7B38FAC62"
+    },
     {
       "class": "group",
       "id": "41DBCA61-EB55-4C29-8B5C-6F6493763666"

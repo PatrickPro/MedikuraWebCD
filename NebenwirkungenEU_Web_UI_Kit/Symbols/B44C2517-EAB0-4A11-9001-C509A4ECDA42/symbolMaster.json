@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 50,
+  "changeIdentifier": 649,
   "do_objectID": "B44C2517-EAB0-4A11-9001-C509A4ECDA42",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,6 +26,12 @@
     "x": 1640,
     "y": 1147
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
@@ -42,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -63,6 +69,10 @@
     {
       "class": "group",
       "id": "83EF4B6D-C508-41E5-A414-C7D1E22D3AF5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F1B8D07-E690-4104-8CC2-E4DED15439DB"
     }
   ],
   "name": "1-Desktop / 2-Report / 2-Form / 2",
