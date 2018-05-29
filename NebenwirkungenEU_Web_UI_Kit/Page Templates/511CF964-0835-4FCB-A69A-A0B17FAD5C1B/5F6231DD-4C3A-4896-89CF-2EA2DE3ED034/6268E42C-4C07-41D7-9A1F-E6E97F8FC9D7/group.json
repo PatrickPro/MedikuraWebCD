@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 290,
-    "width": 535,
-    "x": 170,
-    "y": 206
+    "height": 396,
+    "width": 534,
+    "x": 171,
+    "y": 257
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -28,19 +28,11 @@
     {
       "class": "text",
       "id": "D0361570-63EE-4123-A35E-2DBE096E07D1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FD7B466F-8F41-4A65-9E64-EFF9EA300FD4"
-    },
-    {
-      "class": "text",
-      "id": "7752A989-D39A-4B87-8A5A-18CB067C3F7F"
     }
   ],
   "name": "text",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 61,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

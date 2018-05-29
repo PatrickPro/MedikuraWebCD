@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 800,
+    "height": 848,
     "width": 1440,
     "x": 0,
-    "y": 2912
+    "y": 2920
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -34,6 +34,10 @@
       "id": "5E1A6C3F-5481-4DF7-84E0-1EA826AA404D"
     },
     {
+      "class": "text",
+      "id": "CD115D6A-F7BD-460C-B74B-3B58A68356B7"
+    },
+    {
       "class": "group",
       "id": "8CA52CC8-1615-4BAF-81E1-403081BB9626"
     },
@@ -48,10 +52,14 @@
     {
       "class": "text",
       "id": "5870EC2A-B939-4593-BBF3-8723F403D319"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FC683B2-FC81-4936-A784-67CE2FE46490"
     }
   ],
-  "name": "1-Desktop / 1-Landing / 7-Advise / 2",
-  "nameIsFixed": false,
+  "name": "5",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

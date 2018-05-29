@@ -17,22 +17,52 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 12
+              "size": 14
             }
           },
-          "kerning": 0.6000000238418579,
+          "kerning": 0.2000000029802322,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "baseWritingDirection": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          }
         },
-        "length": 1004,
+        "length": 1005,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2549019607843137,
+            "green": 0.07843137254901963,
+            "red": 0.5568627450980392
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0.2000000029802322,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          }
+        },
+        "length": 21,
+        "location": 1005
       }
     ],
-    "string": "Die Idee hinter Nebenwirkungen.eu kommt nicht aus der Theorie - wir haben selbst an Nebenwirkungen von Medikamenten gelitten und uns anschließend über Jahre hinweg mit dem Thema Arzneimittelsicherheit auseinandergesetzt. Wir sind ein Team aus Forschern der LMU und TU München, mit Schwerpunkten in Bioinformatik, nutzerfreundlichem Design, und digitalen Märkten.\n\nUnsere große Vision ist es, die digitale Infrastruktur für die Arzneimittelsicherheit der Zukunft zu entwickeln. Dabei wollen wir alle Beteiligten - Patienten, Ärzte, Apotheker und Pharmahersteller - so miteinander verknüpfen, dass wir unser gemeinsames Ziel erreichen können: Arzneimittel so sicher wie nur möglich zu machen.\n\nWir sind stolz, viele namhafte Unterstützer für unser Vorhaben gefunden zu haben. Nicht nur werden wir von der Bundesregierung und dem Europäischen Sozialfonds finanziell gefördert, sondern auch durch renommierte Professoren und führende Patientenorganisationen inhaltlich unterstützt. Wollen auch Sie mitmachen?"
+    "string": "Die Idee hinter Nebenwirkungen.eu kommt nicht aus der Theorie - wir haben selbst an Nebenwirkungen von Medikamenten gelitten und uns anschließend über Jahre hinweg mit dem Thema Arzneimittelsicherheit auseinandergesetzt. Wir sind ein Team aus Forschern der LMU und TU München, mit Schwerpunkten in Bioinformatik, nutzerfreundlichem Design, und digitalen Märkten.\n\nUnsere große Vision ist es, die digitale Infrastruktur für die Arzneimittelsicherheit der Zukunft zu entwickeln. Dabei wollen wir alle Beteiligten - Patienten, Ärzte, Apotheker und Pharmahersteller - so miteinander verknüpfen, dass wir unser gemeinsames Ziel erreichen können: Arzneimittel so sicher wie nur möglich zu machen.\n\nWir sind stolz, viele namhafte Unterstützer für unser Vorhaben gefunden zu haben. Nicht nur werden wir von der Bundesregierung und dem Europäischen Sozialfonds finanziell gefördert, sondern auch durch renommierte Professoren und führende Patientenorganisationen inhaltlich unterstützt. Wollen auch Sie mitmachen? Kontaktieren Sie uns!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D0361570-63EE-4123-A35E-2DBE096E07D1",
@@ -49,12 +79,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 255,
+    "height": 396,
     "width": 534,
-    "x": 1,
+    "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {532, 251}}",
+  "glyphBounds": "{{0, 5}, {533, 386}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,8 +99,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9DA5EEB0-6070-4F41-801A-83388D5FC77A",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "EF1B112A-0D98-4BB5-94B2-DA92E2995040",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -86,16 +118,17 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 12
+            "size": 14
           }
         },
-        "kerning": 0.6000000238418579,
+        "kerning": 0.2000000029802322,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "baseWritingDirection": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        }
       },
       "verticalAlignment": 0
     }
