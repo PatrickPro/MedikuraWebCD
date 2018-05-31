@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1086,
+    "height": 1089,
     "width": 1440,
     "x": 0,
     "y": 632
@@ -33,7 +33,7 @@
     },
     {
       "class": "shapePath",
-      "id": "0FE6EDB2-C2B9-4BED-94BE-B25488C35764"
+      "id": "EEC81FE6-0151-437D-88DA-89C34CB3D13C"
     }
   ],
   "name": "Combined Shape",
@@ -44,6 +44,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5722989D-A3E4-42DD-80D9-402257AAF3F8",
     "endDecorationType": 0,
     "fills": [
       {
@@ -100,7 +101,7 @@
         "blurRadius": 40,
         "color": {
           "_class": "color",
-          "alpha": 0.04,
+          "alpha": 0.06,
           "blue": 0.5098039215686274,
           "green": 0.4745098039215684,
           "red": 0.06666666666666665
@@ -117,6 +118,7 @@
       }
     ],
     "miterLimit": 10,
+    "sharedObjectID": "E527836F-DB47-46C6-8CE3-FA53B7C224DB",
     "startDecorationType": 0
   },
   "windingRule": 1
