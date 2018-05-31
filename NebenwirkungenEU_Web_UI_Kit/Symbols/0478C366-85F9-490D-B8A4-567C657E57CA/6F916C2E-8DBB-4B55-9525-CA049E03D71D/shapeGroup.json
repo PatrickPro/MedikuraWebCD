@@ -34,7 +34,7 @@
   ],
   "name": "photo copy",
   "nameIsFixed": true,
-  "resizingConstraint": 45,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -68,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7803921568627451,
-          "green": 0.7647058823529412,
-          "red": 0.5843137254901961
+          "blue": 0.9254901960784314,
+          "green": 0.9176470588235294,
+          "red": 0.8627450980392157
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

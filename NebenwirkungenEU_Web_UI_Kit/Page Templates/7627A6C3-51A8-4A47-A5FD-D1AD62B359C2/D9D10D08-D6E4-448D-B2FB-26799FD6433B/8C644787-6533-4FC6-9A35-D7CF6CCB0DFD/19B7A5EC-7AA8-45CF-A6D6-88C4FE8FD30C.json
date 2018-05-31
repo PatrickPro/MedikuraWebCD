@@ -1,0 +1,76 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "19B7A5EC-7AA8-45CF-A6D6-88C4FE8FD30C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24058861-CC93-40FB-A7AD-80231FD56555",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7B7DDE97-1DAF-4893-BC89-42FB053F4212",
+    "height": 74,
+    "width": 144,
+    "x": 959,
+    "y": 49
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/48e68ffdcda6ff7287599927e5e794f6888ea86f.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "5",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CB619086-DD9B-439C-85D0-3512F42D508E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.469982847341337,
+      "type": 0
+    },
+    "do_objectID": "EC243FD1-EDE9-4FAD-B85E-011940161EBD",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7803921568627451,
+          "green": 0.7647058823529412,
+          "red": 0.5843137254901961
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
