@@ -16,14 +16,14 @@
     "height": 166,
     "width": 1110,
     "x": 165,
-    "y": 1167
+    "y": 1151
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -34,24 +34,24 @@
       "id": "A781C744-AABD-4BFA-ACE1-42CC5A86E87F"
     },
     {
-      "class": "group",
-      "id": "B2FE6C52-9B67-4FB6-8062-7884859DD2DF"
-    },
-    {
-      "class": "group",
-      "id": "6E421F0B-0451-4B48-AB3E-962B21860A9B"
-    },
-    {
-      "class": "group",
-      "id": "ABDE8647-CCF1-428D-B031-452E5EB54F4A"
-    },
-    {
-      "class": "group",
-      "id": "B93E2C9A-C056-44A2-BCE6-FFF2F7E05441"
+      "class": "bitmap",
+      "id": "2CE8D7BB-FB43-4094-9723-DA5E7A425E42"
     },
     {
       "class": "bitmap",
-      "id": "82D92865-92FD-492E-8ADE-50A00A399673"
+      "id": "D40C1746-A0BE-473E-86A9-4196CFE5FC99"
+    },
+    {
+      "class": "bitmap",
+      "id": "3BF5B854-8815-4BF9-BFA6-7F0415D85FE7"
+    },
+    {
+      "class": "bitmap",
+      "id": "CE58E71B-9E14-4BC7-8C18-9D7263AB031D"
+    },
+    {
+      "class": "bitmap",
+      "id": "AA6C4717-425B-40DD-9708-016872D77E0B"
     }
   ],
   "name": "5",
