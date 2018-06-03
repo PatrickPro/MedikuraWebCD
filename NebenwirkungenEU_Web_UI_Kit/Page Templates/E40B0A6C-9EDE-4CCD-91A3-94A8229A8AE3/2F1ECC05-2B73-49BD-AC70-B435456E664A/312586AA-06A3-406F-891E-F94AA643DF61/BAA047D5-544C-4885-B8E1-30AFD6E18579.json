@@ -1,0 +1,81 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "BAA047D5-544C-4885-B8E1-30AFD6E18579",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C3EE2FF3-A698-4069-A808-C5C99AAE0D30",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "03D242A8-A24B-420F-99BC-0A5F80214ACE",
+    "height": 328,
+    "width": 350,
+    "x": 0,
+    "y": -6
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/d4015081d04813fd755e2ad29cbb64dbe827718d.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Nebenwirkungen.eu_Team_FriderikeBruchmann_PhilippNaegelein_TobiasNendel_PatrickProppe_v.l.n.r",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2EE2F715-67B8-4C3B-838C-2185B7513696",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.742160278745644,
+      "type": 0
+    },
+    "do_objectID": "0B88A1DA-FAF5-48C9-B0C5-D90967574E12",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.7000000476837158,
+          "blue": 0.9254901960784314,
+          "green": 0.9176470588235294,
+          "red": 0.8627450980392157
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 2,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

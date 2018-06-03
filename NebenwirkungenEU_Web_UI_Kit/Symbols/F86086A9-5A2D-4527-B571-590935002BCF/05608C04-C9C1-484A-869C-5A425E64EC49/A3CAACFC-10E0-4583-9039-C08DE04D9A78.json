@@ -52,8 +52,34 @@
             "baseWritingDirection": 0
           }
         },
-        "length": 14,
+        "length": 13,
         "location": 74
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666665
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 10
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0
+          }
+        },
+        "length": 1,
+        "location": 87
       }
     ],
     "string": "Wenn Sie eine Nebenwirkungen mit Amoxicillin haben, können Sie diese hier Direkt Melden."
