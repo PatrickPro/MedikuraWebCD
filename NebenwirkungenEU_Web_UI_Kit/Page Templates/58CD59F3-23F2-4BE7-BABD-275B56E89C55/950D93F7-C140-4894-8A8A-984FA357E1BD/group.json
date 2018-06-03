@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 427,
+    "height": 588,
     "width": 375,
     "x": 0,
-    "y": 1620
+    "y": 1140
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -42,15 +42,23 @@
       "id": "24E3F661-6BB2-4F09-8530-87F553507C24"
     },
     {
+      "class": "group",
+      "id": "DA31EF70-3FF9-4564-9A51-6600D6641418"
+    },
+    {
       "class": "text",
       "id": "A6F30177-CC4A-4D04-B96C-72B9D47EE9A3"
     },
     {
-      "class": "symbolInstance",
-      "id": "50A05146-37E0-48F3-A006-D8F6355D7EEA"
+      "class": "text",
+      "id": "C2BB56B8-5778-42AF-A6D5-D0FFBE2265FD"
+    },
+    {
+      "class": "text",
+      "id": "59E6975A-559F-48E0-9F10-123305603818"
     }
   ],
-  "name": "4",
+  "name": "3",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
