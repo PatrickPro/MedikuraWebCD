@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 39,
+  "changeIdentifier": 49,
   "do_objectID": "170D3D3B-44BF-4023-8A15-FCC880DCBBA4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -65,6 +65,21 @@
       "id": "0099AFA9-5F57-4D8D-9E31-17382F87CED6"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 26.25,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 16,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 2,
+    "totalWidth": 375
+  },
   "name": "other components / team / mobile / 1",
   "nameIsFixed": true,
   "resizesContent": false,

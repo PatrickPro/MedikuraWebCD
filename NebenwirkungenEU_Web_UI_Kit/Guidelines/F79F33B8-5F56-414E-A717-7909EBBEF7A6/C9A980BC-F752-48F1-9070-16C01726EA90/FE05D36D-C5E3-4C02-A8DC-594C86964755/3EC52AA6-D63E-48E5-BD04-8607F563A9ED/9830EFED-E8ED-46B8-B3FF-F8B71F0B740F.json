@@ -11,7 +11,7 @@
             "alpha": 1,
             "blue": 0.5098039215686274,
             "green": 0.4745098039215684,
-            "red": 0.06666666666666665
+            "red": 0.06666666666666667
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -71,7 +71,39 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "B0DB4F24-BAED-4408-87E1-4FCFB8944A37"
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "B0DB4F24-BAED-4408-87E1-4FCFB8944A37",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5098039215686274,
+          "green": 0.4745098039215684,
+          "red": 0.06666666666666667
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Bold",
+            "size": 24
+          }
+        },
+        "kerning": 0.2000000029802322,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
+        }
+      },
+      "verticalAlignment": 0
+    }
   },
   "textBehaviour": 0
 }

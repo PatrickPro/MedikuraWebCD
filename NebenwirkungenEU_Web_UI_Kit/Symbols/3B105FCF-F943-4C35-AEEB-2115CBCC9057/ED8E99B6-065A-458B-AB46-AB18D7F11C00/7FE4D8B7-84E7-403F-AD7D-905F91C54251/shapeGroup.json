@@ -69,63 +69,6 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
-      },
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 0.2000000178813934
-        },
-        "fillType": 4,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 0.5,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 0.5,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/93aa9b9a6af2058f0684c23584197ec7c641c3ea.png",
-          "_ref_class": "MSImageData"
-        },
-        "isEnabled": false,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
       }
     ],
     "miterLimit": 10,
