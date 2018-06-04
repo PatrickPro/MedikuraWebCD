@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666667
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 30
+            }
+          },
+          "kerning": 0.6000000238418579,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 42,
+            "minimumLineHeight": 42
+          }
+        },
+        "length": 44,
+        "location": 0
+      }
+    ],
+    "string": "Nebenwirkungen von Medikamenten nachschlagen"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "DC721477-58B4-4244-9583-60FB3F7545C1",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29ACF96B-BA49-4348-822D-3CE05A29F561",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8083CFCD-4887-49A2-81EE-7831EBC1F58E",
+    "height": 84,
+    "width": 540,
+    "x": 50,
+    "y": 141
+  },
+  "glyphBounds": "{{2, 10}, {451, 73}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Nebenwirkungen von M",
+  "nameIsFixed": false,
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60C43615-B818-4C7F-A0B7-CEFB89A92025",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "ED18775C-F183-43D5-AAB3-3A4A1597B3DF",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "C56D8DAD-DB7C-4530-A202-46292262B1D1",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5098039215686274,
+          "green": 0.4745098039215684,
+          "red": 0.06666666666666667
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Bold",
+            "size": 30
+          }
+        },
+        "kerning": 0.6000000238418579,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 42,
+          "minimumLineHeight": 42
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

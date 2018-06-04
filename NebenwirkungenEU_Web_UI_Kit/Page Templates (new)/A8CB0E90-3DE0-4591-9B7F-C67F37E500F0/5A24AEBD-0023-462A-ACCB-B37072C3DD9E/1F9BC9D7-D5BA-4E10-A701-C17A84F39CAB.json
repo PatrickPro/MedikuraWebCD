@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666667
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 30
+            }
+          },
+          "kerning": 0.6000000238418579,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 42,
+            "minimumLineHeight": 42
+          }
+        },
+        "length": 87,
+        "location": 0
+      }
+    ],
+    "string": "Nebenwirkungen melden: Wie Sie den Inhalt des Beipackzettels selbst beeinflussen können"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "1F9BC9D7-D5BA-4E10-A701-C17A84F39CAB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA92F5E9-461F-4077-8812-AEB5A09195FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0C6E0BE-CB4B-4E5C-ADB9-C4A8ED0E751A",
+    "height": 84,
+    "width": 1110,
+    "x": 165,
+    "y": 132
+  },
+  "glyphBounds": "{{1, 10}, {984, 66}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Nebenwirkungen melde",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BD76AE1B-A724-4271-BA11-8787C5C770E5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "ED18775C-F183-43D5-AAB3-3A4A1597B3DF",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "B5AD23F7-3D25-42F1-BBF9-09BE4CF8E7B9",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5098039215686274,
+          "green": 0.4745098039215684,
+          "red": 0.06666666666666667
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Bold",
+            "size": 30
+          }
+        },
+        "kerning": 0.6000000238418579,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 42,
+          "minimumLineHeight": 42
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

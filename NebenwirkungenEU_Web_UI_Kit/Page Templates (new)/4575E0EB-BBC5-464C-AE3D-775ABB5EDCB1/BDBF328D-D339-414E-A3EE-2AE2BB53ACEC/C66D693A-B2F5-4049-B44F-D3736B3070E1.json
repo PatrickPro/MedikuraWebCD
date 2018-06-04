@@ -1,0 +1,109 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2549019607843137,
+            "green": 0.07843137254901963,
+            "red": 0.5568627450980392
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 10
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          }
+        },
+        "length": 27,
+        "location": 0
+      }
+    ],
+    "string": "Die Wichtigsten Medikamente"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C66D693A-B2F5-4049-B44F-D3736B3070E1",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95C79591-3AA3-4A31-8F0E-9CEA823C8C9D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4AF6AF1-7B13-4903-8892-F8953578E396",
+    "height": 16,
+    "width": 345,
+    "x": 15,
+    "y": 78
+  },
+  "glyphBounds": "{{0, 4}, {150, 11}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Die Wichtigsten Medi",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AFB923E3-DDD1-4B92-AAFD-1D48BACE911A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "06E0FC22-BF77-49D5-BA9D-763A15791394",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "74AEE91B-F1D5-4B62-AD42-BCC2DB9132CB",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2549019607843137,
+          "green": 0.07843137254901963,
+          "red": 0.5568627450980392
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Bold",
+            "size": 10
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

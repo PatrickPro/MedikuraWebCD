@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2549019607843137,
+            "green": 0.07843137254901963,
+            "red": 0.5568627450980392
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 12
+            }
+          },
+          "kerning": 0.6000000238418579,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
+          }
+        },
+        "length": 8,
+        "location": 0
+      }
+    ],
+    "string": "Über uns"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "6061603C-9149-4D55-81E4-0D82C56DC174",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FDBF4975-3897-4200-9C30-5B6A260287FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8C8D544-9448-45E0-96CE-26E0014781C0",
+    "height": 18,
+    "width": 57,
+    "x": 203,
+    "y": 0
+  },
+  "glyphBounds": "{{1, 3}, {54, 12}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "About (hover)",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "875CA2D5-9763-4756-A613-37689D903EF1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "5C05D898-A338-4332-85A2-695E832A96A3",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "127CCE52-C8C7-46EA-B42B-F54B5C6C56D0",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2549019607843137,
+          "green": 0.07843137254901963,
+          "red": 0.5568627450980392
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Regular",
+            "size": 12
+          }
+        },
+        "kerning": 0.6000000238418579,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0
+}

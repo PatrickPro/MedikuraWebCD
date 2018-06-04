@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666667
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 24
+            }
+          },
+          "kerning": 0.4000000059604645,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 38,
+            "minimumLineHeight": 38
+          }
+        },
+        "length": 14,
+        "location": 0
+      }
+    ],
+    "string": "Nebenwirkungen"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "4F9C86A0-6DAC-4163-8453-74B00C324EC2",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A2B73107-8063-4E44-A23D-6189AECD5975",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59AF9D9D-E632-45DB-B2AD-02D1BE744C34",
+    "height": 38,
+    "width": 920,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{2, 9}, {209, 25}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Nebenwirkungen",
+  "nameIsFixed": false,
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "802803E2-9FE9-4C3C-9F17-766E26A8353E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "4CD81FAC-4641-4BAC-9B1C-D597612B14E7",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "E23B78DC-CD1C-42A4-BDBC-32A0126E6DB0",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5098039215686274,
+          "green": 0.4745098039215684,
+          "red": 0.06666666666666667
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Bold",
+            "size": 24
+          }
+        },
+        "kerning": 0.4000000059604645,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 38,
+          "minimumLineHeight": 38
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

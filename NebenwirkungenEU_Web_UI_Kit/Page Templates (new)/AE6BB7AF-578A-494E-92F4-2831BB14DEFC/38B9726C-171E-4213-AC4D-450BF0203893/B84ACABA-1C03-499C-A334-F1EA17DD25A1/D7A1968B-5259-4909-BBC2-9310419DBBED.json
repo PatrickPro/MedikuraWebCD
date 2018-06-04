@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D7A1968B-5259-4909-BBC2-9310419DBBED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "570D03E8-EBF8-423B-B0B6-B84939DA881B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6102452D-D0D0-479C-BAC6-31E469CC74E0",
+    "height": 27,
+    "width": 80,
+    "x": 253,
+    "y": 38
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/84f7c574d6c4246123c45b211d79f5394a2edc2b.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "xpreneurs-logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1E31182B-8155-4AA4-8284-CA4443FA0F02",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.3134796238244514,
+      "type": 0
+    },
+    "do_objectID": "6B6A4A5F-D767-409D-9E8E-8E028B16A69A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

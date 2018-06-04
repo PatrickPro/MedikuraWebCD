@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666667
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 24
+            }
+          },
+          "kerning": 0.4000000059604645,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 38,
+            "minimumLineHeight": 38
+          }
+        },
+        "length": 63,
+        "location": 0
+      }
+    ],
+    "string": "Nehmen Sie Aspirin Complex C ein? Hier sind Ihre Möglichkeiten:"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3F4F4708-052C-494B-83D2-5D78ADDDCD37",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C680444D-E427-4840-8085-51D967144C53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ACE8779D-FB57-4429-935E-3FA984B3556D",
+    "height": 38,
+    "width": 1110,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{158, 9}, {795, 25}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "title",
+  "nameIsFixed": true,
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E268E1B2-F5DB-42BD-BD4A-55582EDE9DF8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "0598DDA0-E3FE-4159-8E31-DB5F0DDE55C9",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "8E7CE27F-B6D9-4709-9A7C-00F632D849C3",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5098039215686274,
+          "green": 0.4745098039215684,
+          "red": 0.06666666666666667
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Bold",
+            "size": 24
+          }
+        },
+        "kerning": 0.4000000059604645,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 38,
+          "minimumLineHeight": 38
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

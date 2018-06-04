@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "do_objectID": "09FDB269-9372-4770-AED7-3CD6123D3C75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37B0D5B9-8D15-4EF5-B24F-B0364DD2CE36",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C320E0C9-F730-49CE-9FEA-8469C7BBD58C",
+    "height": 241,
+    "width": 372,
+    "x": 370,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F342DA5E-928D-4B8D-B852-3090FF850CD3"
+    },
+    {
+      "class": "text",
+      "id": "4C77EDB9-7764-4136-AEA6-4EC98437AF4F"
+    }
+  ],
+  "name": "2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C0D2D36F-69BC-4231-B299-A823106D8D77",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 20,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 5,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "AD8F0B37-B4AE-4E47-97C1-A42B672F614B",
+    "startDecorationType": 0
+  }
+}

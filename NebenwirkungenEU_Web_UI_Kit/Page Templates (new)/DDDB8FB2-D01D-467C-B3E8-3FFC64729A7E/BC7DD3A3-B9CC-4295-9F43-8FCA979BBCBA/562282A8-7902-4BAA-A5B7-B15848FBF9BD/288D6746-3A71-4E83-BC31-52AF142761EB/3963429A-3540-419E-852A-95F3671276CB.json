@@ -1,0 +1,76 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "3963429A-3540-419E-852A-95F3671276CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "517854BC-C4BC-4D1E-BBBA-D61018690A13",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6768BEB0-9DE4-4918-B34E-4238C04FF8F1",
+    "height": 72,
+    "width": 144,
+    "x": 246,
+    "y": 44
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/b8993a20f2f36a0149d9f5233081a757874e5e55.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "leberhilfe.c8de1e26",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "280526F8-EDBE-455A-9D49-7D9AC87A240E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.599999785423279,
+      "type": 0
+    },
+    "do_objectID": "B4CDFFD5-40D5-4DE6-8053-75EB7DF8453A",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2549019607843137,
+          "green": 0.07843137254901963,
+          "red": 0.5568627450980392
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

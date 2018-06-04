@@ -1,0 +1,76 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "39AFF63C-4826-41C8-B217-61F03B3CB114",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9DEB7E9-06B5-4659-BCB0-E4F72E94818E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FFD5FA8B-995A-47ED-B720-58EE8B12DEC8",
+    "height": 17,
+    "width": 106,
+    "x": 211,
+    "y": 220
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/9d5dce22a99ce4bd9f2b260403b435bb40b129b1.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "2000px-Handelsblatt_logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "60612057-F726-4E52-88AC-3CDCF4E4367B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.7388888763056857,
+      "type": 0
+    },
+    "do_objectID": "7EED5110-22AC-45C6-99BB-85AA2390485D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7137254901960784,
+          "green": 0.6901960784313725,
+          "red": 0.4549019607843137
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

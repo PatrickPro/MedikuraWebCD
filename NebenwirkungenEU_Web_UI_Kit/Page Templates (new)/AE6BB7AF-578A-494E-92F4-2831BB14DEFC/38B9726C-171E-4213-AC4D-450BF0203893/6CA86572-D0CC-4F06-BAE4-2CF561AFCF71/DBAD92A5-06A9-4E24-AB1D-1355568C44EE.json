@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "DBAD92A5-06A9-4E24-AB1D-1355568C44EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F873EE88-4B82-4FCF-B654-A1258B185F2D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4C4EE5D9-90CC-460C-8A37-DC573E6D30E8",
+    "height": 26,
+    "width": 54,
+    "x": 278,
+    "y": 43
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/fa097165b4eb0300692d8f6aa1e6538d93f6fe39.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SAP_Logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "EFEBDB93-044B-48A4-8793-0E32FE565294",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.5297911758431637,
+      "type": 0
+    },
+    "do_objectID": "888D777D-1044-4764-AE84-9908360655DB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

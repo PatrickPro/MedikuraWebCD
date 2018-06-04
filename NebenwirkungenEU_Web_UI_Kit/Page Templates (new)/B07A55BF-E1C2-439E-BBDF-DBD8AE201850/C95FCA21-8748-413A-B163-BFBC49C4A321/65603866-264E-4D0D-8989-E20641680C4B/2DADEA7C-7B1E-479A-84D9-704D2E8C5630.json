@@ -1,0 +1,76 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "2DADEA7C-7B1E-479A-84D9-704D2E8C5630",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BDE6397-30BA-4BC2-9883-EE82130DB4B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9222E6FD-5EEA-47DB-A18D-D5DA72755A01",
+    "height": 24,
+    "width": 168,
+    "x": 505,
+    "y": 90
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/b4cd32e605bed8b3f434703364b5c6d571b064e2.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Pharmazeutische_Zeitung_log",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3C60B7DC-B5D6-4DA3-934D-43D2CD01DFAC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.3609798023205844,
+      "type": 0
+    },
+    "do_objectID": "803E8C1F-DADD-42F3-B227-1E34EF9A060E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7137254901960784,
+          "green": 0.6901960784313725,
+          "red": 0.4549019607843137
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

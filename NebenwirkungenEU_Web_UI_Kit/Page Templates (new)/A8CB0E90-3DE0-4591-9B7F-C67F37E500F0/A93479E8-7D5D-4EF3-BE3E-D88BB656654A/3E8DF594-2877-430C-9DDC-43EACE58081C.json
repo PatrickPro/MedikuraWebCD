@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666667
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0.2000000029802322,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          }
+        },
+        "length": 808,
+        "location": 0
+      }
+    ],
+    "string": "Wann ein Beipackzettel zum letzten Mal überarbeitet wurde, steht auf der Rückseite (meist auf der unteren rechten Seite) der Packungsbeilage. Bei manchen Beipackzetteln ist die letzte Überarbeitung erst ein paar Monate alt, bei anderen können es auch Jahre sein. So kann es vorkommen, dass eine Packungsbeilage das letzte Mal 2014 aktualisiert wurde, während Ihr Arzneimittel jedoch bis 2021 haltbar ist.\n\nWie oft ein Beipackzettel überarbeitet werden muss, hängt vom jeweiligen Medikament ab. Entscheidend sind das Datum der Zulassung (d.h. wie lange es schon auf dem Markt ist), die Neuartigkeit des Wirkstoffs, die Risikobewertung und die damit verbundenen Sicherheitsauflagen und natürlich das Auftreten von schwerwiegenden Zwischenfällen von Nebenwirkungen in Verbindung mit dem jeweiligen Arzneimittel."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3E8DF594-2877-430C-9DDC-43EACE58081C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6172B1B2-C147-4E7C-8036-D5B5F7E19090",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0BDF1F1-BCCC-482F-90D7-E4EE5A4C8376",
+    "height": 286,
+    "width": 540,
+    "x": 640,
+    "y": 177
+  },
+  "glyphBounds": "{{0, 5}, {529, 279}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Wann ein Beipackzett",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E4CD9D6-00FA-4117-8621-B94B5347B2A3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "EF1B112A-0D98-4BB5-94B2-DA92E2995040",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "1538ADF5-6AF7-4749-AA84-51005811A6E1",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5098039215686274,
+          "green": 0.4745098039215684,
+          "red": 0.06666666666666667
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0.2000000029802322,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

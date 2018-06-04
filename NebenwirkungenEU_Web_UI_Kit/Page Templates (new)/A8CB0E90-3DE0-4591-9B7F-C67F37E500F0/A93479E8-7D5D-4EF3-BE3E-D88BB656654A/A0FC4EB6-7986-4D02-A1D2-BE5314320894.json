@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666667
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0.2000000029802322,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          }
+        },
+        "length": 667,
+        "location": 0
+      }
+    ],
+    "string": "Jeder Beipackzettel wird regelmäßig auf seine Aktualität überprüft. Nichtsdestotrotz muss man davon ausgehen, dass neue Erkenntnisse nur äußerst zeitverzögert in die Beipackzettel aufgenommen werden können. Deshalb gibt es auch unmittelbare Warnbriefe (sogenannte die “Rote-Hand-Briefe”), welche an Apotheker und Ärzte verschickt werden, um bei kritischen Sicherheitsaspekten zu warnen. Das geschieht beispielsweise bei häufigem Auftreten einer schwerwiegenden Nebenwirkung oder der Verunreinigung einer Medikamentenserie. Wenn Sie sich für die aktuell vorliegenden Nebenwirkungsmeldungen zu einem Ihrer Medikamente interessieren, hilft ein Blick in unsere Datenbank."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "A0FC4EB6-7986-4D02-A1D2-BE5314320894",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1397975-8152-4540-8766-5D712FCA1A9C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B56E632-F2DA-454C-8E5E-C799E682EB76",
+    "height": 132,
+    "width": 920,
+    "x": 260,
+    "y": 479
+  },
+  "glyphBounds": "{{-2, 5}, {920, 122}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Jeder Beipackzettel",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1AFB44A4-9A1E-4C50-9D65-369F5918B74F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "EF1B112A-0D98-4BB5-94B2-DA92E2995040",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "858E3DB3-D0F7-46E1-8B2D-5FE3CEAEB9BF",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5098039215686274,
+          "green": 0.4745098039215684,
+          "red": 0.06666666666666667
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0.2000000029802322,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

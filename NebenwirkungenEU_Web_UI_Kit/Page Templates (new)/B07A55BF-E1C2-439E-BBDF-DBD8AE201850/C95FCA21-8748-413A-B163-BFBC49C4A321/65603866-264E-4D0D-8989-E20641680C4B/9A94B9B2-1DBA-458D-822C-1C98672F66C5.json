@@ -1,0 +1,76 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "9A94B9B2-1DBA-458D-822C-1C98672F66C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D7F23D0-8D3A-4AAA-A069-CFB0732F4943",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C91EC1B4-4BF2-4945-ABAC-FFA790E51D7B",
+    "height": 24,
+    "width": 152,
+    "x": 4,
+    "y": 90
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/eb26dfdaa4d96ee7676ed4340d2f81087cc07fe0.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "AerzteZeitung-2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "403BBB7E-22E1-4A1D-9E25-C4C418056304",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.95,
+      "type": 0
+    },
+    "do_objectID": "B2ED1341-C64B-4E72-8424-D51B985D8CC4",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7137254901960784,
+          "green": 0.6901960784313725,
+          "red": 0.4549019607843137
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
