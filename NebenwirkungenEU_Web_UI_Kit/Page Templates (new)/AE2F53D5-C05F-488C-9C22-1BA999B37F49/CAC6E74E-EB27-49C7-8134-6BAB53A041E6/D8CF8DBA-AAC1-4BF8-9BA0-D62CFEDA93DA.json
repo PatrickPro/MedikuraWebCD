@@ -11,28 +11,129 @@
             "alpha": 1,
             "blue": 0.5098039215686274,
             "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "red": 0.06666666666666665
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 10
+              "size": 11
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "headIndent": 36,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 11,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 36,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56.65000152587891,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 85,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 113.3499984741211,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 141.6999969482422,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 170.0500030517578,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 198.3999938964844,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 226.75,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 255.1000061035156,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 283.4500122070312,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 311.7999877929688,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 340.1499938964844,
+                "options": {
+                }
+              }
+            ],
+            "textLists": [
+              {
+                "_class": "textList",
+                "listOptions": 0,
+                "markerFormat": "{disc}"
+              }
+            ]
           }
         },
-        "length": 583,
+        "length": 593,
         "location": 0
       }
     ],
-    "string": "Des einen Freud, des anderen Leid. Wenn viele sich über Frühlingsblüten freuen, haben sensible Menschen mit übersteigerter Immunabwehr harte Zeiten: Die Augen brennen, die Nase läuft, der Rachen brennt. Doch nicht nur der durch Pollen erzeugte Heuschnupfen macht Probleme. Gar ein Asthma kann sich ausbilden oder auch die Haut kann allergisch reagieren. Sie kennen das? Dann sind auch Sie sicher froh, dass es lindernde Medikamente gibt.\n\n\t•\tWelche Antiallergika gibt es?\n\t•\tWie wirken die verschiedenen Gruppen von Antiallergika?\n\t•\tWelches Antiallergikum ist das richtige für mich?"
+    "string": "Des einen Freud, des anderen Leid. Wenn viele sich über \nFrühlingsblüten freuen, haben sensible Menschen mit \nübersteigerter Immunabwehr harte Zeiten: Die Augen brennen, die \nNase läuft, der Rachen brennt. Doch nicht nur der durch Pollen \nerzeugte Heuschnupfen macht Probleme. Gar ein Asthma kann \nsich ausbilden oder auch die Haut kann allergisch reagieren. Sie \nkennen das? Dann sind auch Sie sicher froh, dass es lindernde \nMedikamente gibt.\n\n\t• \tWelche Antiallergika gibt es?\n\t• \tWie wirken die verschiedenen Gruppen von Antiallergika?\n\t• \tWelches Antiallergikum ist das richtige für mich?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D8CF8DBA-AAC1-4BF8-9BA0-D62CFEDA93DA",
@@ -51,12 +152,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F4FB06C0-D724-43A7-AB0F-2DDE5A2C77BB",
-    "height": 176,
+    "height": 216,
     "width": 345,
     "x": 0,
     "y": 94
   },
-  "glyphBounds": "{{0, 4}, {343, 171}}",
+  "glyphBounds": "{{0, 4}, {343, 210}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -74,32 +175,132 @@
     "do_objectID": "5CD2D3A4-359D-429D-896C-DD166FB12A08",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "C3BD61A6-FF59-48FA-AC2E-DAF9C10C3850",
+    "sharedObjectID": "8C141F21-1A90-4BF1-B3FF-E16E8BA43840",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "ED1E425E-43D5-4FB6-A9C4-DBBEDBD9D673",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.5098039215686274,
           "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "red": 0.06666666666666665
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 10
+            "size": 11
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "headIndent": 36,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18,
+          "tabStops": [
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 11,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 36,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 56.65000152587891,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 85,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 113.3499984741211,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 141.6999969482422,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 170.0500030517578,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 198.3999938964844,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 226.75,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 255.1000061035156,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 283.4500122070312,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 311.7999877929688,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 340.1499938964844,
+              "options": {
+              }
+            }
+          ],
+          "textLists": [
+            {
+              "_class": "textList",
+              "listOptions": 0,
+              "markerFormat": "{disc}"
+            }
+          ]
         }
       },
       "verticalAlignment": 0

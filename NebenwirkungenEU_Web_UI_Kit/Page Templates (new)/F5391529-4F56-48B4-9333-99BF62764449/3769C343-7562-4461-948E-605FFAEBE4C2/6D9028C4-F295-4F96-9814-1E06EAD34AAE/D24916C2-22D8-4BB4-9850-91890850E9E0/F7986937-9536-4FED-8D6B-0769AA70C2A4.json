@@ -261,139 +261,9 @@
         },
         "length": 111,
         "location": 33
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5098039215686274,
-            "green": 0.4745098039215684,
-            "red": 0.06666666666666667
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Regular",
-              "size": 14
-            }
-          },
-          "kerning": 0.2,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "baseWritingDirection": 0,
-            "headIndent": 36,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
-            "tabStops": [
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 11,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 36,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 56,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 85,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 113,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 141,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 170,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 198,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 226,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 255,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 283,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 311,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 340,
-                "options": {
-                }
-              }
-            ],
-            "textLists": [
-              {
-                "_class": "textList",
-                "listOptions": 0,
-                "markerFormat": "{disc}"
-              }
-            ]
-          }
-        },
-        "length": 1,
-        "location": 144
       }
     ],
-    "string": "\t•\tWelche Antiallergika gibt es?\n\t•\tWie wirken die verschiedenen Gruppen von Antiallergika?\n\t•\tWelches Antiallergikum ist das richtige für mich?\n"
+    "string": "\t•\tWelche Antiallergika gibt es?\n\t•\tWie wirken die verschiedenen Gruppen von Antiallergika?\n\t•\tWelches Antiallergikum ist das richtige für mich?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F7986937-9536-4FED-8D6B-0769AA70C2A4",
@@ -412,7 +282,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FE3BE226-6706-4BF6-A605-73C35F0BE2F3",
-    "height": 88,
+    "height": 66,
     "width": 410,
     "x": 0,
     "y": 0

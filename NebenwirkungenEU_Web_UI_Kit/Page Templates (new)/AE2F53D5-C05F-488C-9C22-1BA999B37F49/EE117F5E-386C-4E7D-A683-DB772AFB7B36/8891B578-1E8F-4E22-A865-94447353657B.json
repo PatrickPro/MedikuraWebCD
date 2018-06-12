@@ -11,22 +11,22 @@
             "alpha": 1,
             "blue": 0.5098039215686274,
             "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "red": 0.06666666666666665
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 12
+              "size": 16
             }
           },
-          "kerning": 0.2000000029802322,
+          "kerning": 0.1000000014901161,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           }
         },
         "length": 55,
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5491D898-7340-46D7-8748-5F22CE72FE48",
-    "height": 32,
+    "height": 48,
     "width": 345,
     "x": 15,
-    "y": 60
+    "y": 40
   },
-  "glyphBounds": "{{38, 3}, {268, 29}}",
+  "glyphBounds": "{{0, 5}, {316, 41}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -75,33 +75,32 @@
     "do_objectID": "991750F5-6C89-4714-884B-839781C5A51D",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "E7E130A1-E0C6-4684-8363-02F9E2CFB75E",
+    "sharedObjectID": "DE31C2B5-7B7D-410E-A7F7-2F624EA2ADE2",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "37E843E7-F172-4939-B8D2-9C952125659A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.5098039215686274,
           "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "red": 0.06666666666666665
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 12
+            "size": 16
           }
         },
-        "kerning": 0.2000000029802322,
+        "kerning": 0.1000000014901161,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0
