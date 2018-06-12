@@ -11,13 +11,13 @@
             "alpha": 1,
             "blue": 0.5098039215686274,
             "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "red": 0.06666666666666665
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 10
+              "size": 11
             }
           },
           "paragraphStyle": {
@@ -25,8 +25,8 @@
             "alignment": 0,
             "baseWritingDirection": 0,
             "headIndent": 36,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18,
             "tabStops": [
               {
                 "_class": "textTab",
@@ -45,7 +45,7 @@
               {
                 "_class": "textTab",
                 "alignment": 0,
-                "location": 56,
+                "location": 56.65000152587891,
                 "options": {
                 }
               },
@@ -59,63 +59,63 @@
               {
                 "_class": "textTab",
                 "alignment": 0,
-                "location": 113,
+                "location": 113.3499984741211,
                 "options": {
                 }
               },
               {
                 "_class": "textTab",
                 "alignment": 0,
-                "location": 141,
+                "location": 141.6999969482422,
                 "options": {
                 }
               },
               {
                 "_class": "textTab",
                 "alignment": 0,
-                "location": 170,
+                "location": 170.0500030517578,
                 "options": {
                 }
               },
               {
                 "_class": "textTab",
                 "alignment": 0,
-                "location": 198,
+                "location": 198.3999938964844,
                 "options": {
                 }
               },
               {
                 "_class": "textTab",
                 "alignment": 0,
-                "location": 226,
+                "location": 226.75,
                 "options": {
                 }
               },
               {
                 "_class": "textTab",
                 "alignment": 0,
-                "location": 255,
+                "location": 255.1000061035156,
                 "options": {
                 }
               },
               {
                 "_class": "textTab",
                 "alignment": 0,
-                "location": 283,
+                "location": 283.4500122070312,
                 "options": {
                 }
               },
               {
                 "_class": "textTab",
                 "alignment": 0,
-                "location": 311,
+                "location": 311.7999877929688,
                 "options": {
                 }
               },
               {
                 "_class": "textTab",
                 "alignment": 0,
-                "location": 340,
+                "location": 340.1499938964844,
                 "options": {
                 }
               }
@@ -129,11 +129,254 @@
             ]
           }
         },
-        "length": 1876,
+        "length": 1683,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666665
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 11
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 28,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56.65000152587891,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 85,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 113.3499984741211,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 141.6999969482422,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 170.0500030517578,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 198.3999938964844,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 226.75,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 255.1000061035156,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 283.4500122070312,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 311.7999877929688,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 340.1499938964844,
+                "options": {
+                }
+              }
+            ]
+          }
+        },
+        "length": 1,
+        "location": 1683
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5098039215686274,
+            "green": 0.4745098039215684,
+            "red": 0.06666666666666665
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 11
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "headIndent": 36,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 11,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 36,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56.65000152587891,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 85,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 113.3499984741211,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 141.6999969482422,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 170.0500030517578,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 198.3999938964844,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 226.75,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 255.1000061035156,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 283.4500122070312,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 311.7999877929688,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 340.1499938964844,
+                "options": {
+                }
+              }
+            ],
+            "textLists": [
+              {
+                "_class": "textList",
+                "listOptions": 0,
+                "markerFormat": "{disc}"
+              }
+            ]
+          }
+        },
+        "length": 177,
+        "location": 1684
       }
     ],
-    "string": "Sprechen Sie mit Ihrem Arzt oder Apotheker, bevor Sie Acetylsalicylsäure\nzusammen mit einem der folgenden Arzneimittel anwenden:\n\t• \tBlutgerinnungshemmer zum Einnehmen (orale Antikoagulantien), wenn Acetylsalicylsäure zur Behandlung von Schmerzen und Fieber angewendet wird und Sie noch die ein Magen- oder Zwölffingerdarmgeschwür hatten nichtsteriodale Entzündungshemmer, wenn Acetylsalicylsäure in hohrn \t\t(antiinflammatorischen) Dosen oder zur Behandlung von Schmerzen und Fieber angewendet wird;\n\t• \tHeparine bei Anwendung in kurativen Dosen oder bei älteren Patienten (>/= 65 Jahre), wenn Acetylsalicylsäure in hohen (antiinflammatorischen) Dosen, insbesondere zur Behandlung von Schmerzen und Fieber angewendet wird;\n\t• \tArzneimittel zur Auflösung von Blutgerinnseln (Thrombolytika);\n\t• \tClopidogrel;\n\t• \tTiclopidin;\n\t• \tHarnsäuresenkende Arzneimittel (Urikosurika) zur Behandlung der Gicht (z. B. Benzbromaron, Probenacid);\n\t• \tGlucocorticoide (ausgenommen eine Ersatztherapie mit Hydrocortison), wenn Acetylsalicylsäure in hohen (antiinflammatorischen) Dosen angewendet wird;\n\t• \tPemetrexet bei Patienten mit leicht bis mäßig eingeschränkter Nierenfunktion;\n\t• \tAnagrelid entwässernde Arzneimittel (Diuretika);\n\t• \tAngiotensin-converting-Enzym-Hemmer (ACE-Hemmer), Angiotensin-II-Rezeptorantagonisten;\n\t• \tMethotrexat in Dosen bis zu 20 mg pro Woche;\n\t• \tArzneimittel zur örtlichen Behandlung von Magen-Darm-Beschwerden, Antacida und Aktivkohle;\n\t• \tDeferasirox selektive Serotonin-Wiederaufnahmehemmer (z. B. Citalopram, Escitalopram, Fluoxetin, Fluvoxamin, Paroxetin, Sertralin);\n\t• \tEinnahme zusammen mit Alkohol;\n\t• \tDas Arzneimittel darf nicht zusammen mit Alkohol eingenommen werden.\n\nUm mögliche Wechselwirkungen zwischen den Arzneimitteln zu\nvermeiden, sollten Sie Ihren Arzt oder Apotheker auch über alle sonstigen\nArzneimittel informieren, die Sie einnehmen."
+    "string": "Sprechen Sie mit Ihrem Arzt oder Apotheker, bevor Sie\nAcetylsalicylsäure zusammen mit einem der folgenden Arzneimittel\nanwenden:\n\t•\tBlutgerinnungshemmer zum Einnehmen (orale Antikoagulantien), wenn Acetylsalicylsäure zur Behandlung von Schmerzen und Fieber angewendet wird und Sie noch die ein Magen- oder Zwölffingerdarmgeschwür hatten nichtsteriodale Entzündungshemmer, wenn Acetylsalicylsäure in hohrn \t\t(antiinflammatorischen) Dosen oder zur Behandlung von Schmerzen und Fieber angewendet wird;\n\t•\tHeparine bei Anwendung in kurativen Dosen oder bei älteren Patienten (>/= 65 Jahre), wenn Acetylsalicylsäure in hohen (antiinflammatorischen) Dosen, insbesondere zur Behandlung von Schmerzen und Fieber angewendet wird;\n\t•\tArzneimittel zur Auflösung von Blutgerinnseln (Thrombolytika);\n\t•\tClopidogrel;\n\t•\tTiclopidin;\n\t•\tHarnsäuresenkende Arzneimittel (Urikosurika) zur Behandlung der Gicht (z. B. Benzbromaron, Probenacid);\n\t•\tGlucocorticoide (ausgenommen eine Ersatztherapie mit Hydrocortison), wenn Acetylsalicylsäure in hohen (antiinflammatorischen) Dosen angewendet wird;\n\t•\tPemetrexet bei Patienten mit leicht bis mäßig eingeschränkter Nierenfunktion;\n\t•\tAnagrelid entwässernde Arzneimittel (Diuretika);\n\t•\tAngiotensin-converting-Enzym-Hemmer (ACE-Hemmer), Angiotensin-II-Rezeptorantagonisten;\n\t•\tMethotrexat in Dosen bis zu 20 mg pro Woche;\n\t•\tArzneimittel zur örtlichen Behandlung von Magen-Darm-Beschwerden, Antacida und Aktivkohle;\n\t•\tDeferasirox selektive Serotonin-Wiederaufnahmehemmer (z. B. Citalopram, Escitalopram, Fluoxetin, Fluvoxamin, Paroxetin, Sertralin);\n\t•\tEinnahme zusammen mit Alkohol;\n\t•\tDas Arzneimittel darf nicht zusammen mit Alkohol eingenommen werden.\n\nUm mögliche Wechselwirkungen zwischen den Arzneimitteln zu\nvermeiden, sollten Sie Ihren Arzt oder Apotheker auch über alle\nsonstigen Arzneimittel informieren, die Sie einnehmen."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1B17E5D5-DE85-4407-B411-8709E0A6AA88",
@@ -152,12 +395,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DFC9880B-B06D-46F5-A6A1-0DFFA62F206F",
-    "height": 624,
+    "height": 756,
     "width": 345,
     "x": 0,
-    "y": 392
+    "y": 514
   },
-  "glyphBounds": "{{0, 4}, {344, 618}}",
+  "glyphBounds": "{{0, 4}, {343, 750}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -175,24 +418,23 @@
     "do_objectID": "3C33F7AB-FDF9-47A2-AC38-78136AC445C8",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "C3BD61A6-FF59-48FA-AC2E-DAF9C10C3850",
+    "sharedObjectID": "8C141F21-1A90-4BF1-B3FF-E16E8BA43840",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "3536B824-575A-4F4A-A1C2-68A38AE6D42C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.5098039215686274,
           "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "red": 0.06666666666666665
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 10
+            "size": 11
           }
         },
         "paragraphStyle": {
@@ -200,8 +442,8 @@
           "alignment": 0,
           "baseWritingDirection": 0,
           "headIndent": 36,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18,
           "tabStops": [
             {
               "_class": "textTab",
@@ -220,7 +462,7 @@
             {
               "_class": "textTab",
               "alignment": 0,
-              "location": 56,
+              "location": 56.65000152587891,
               "options": {
               }
             },
@@ -234,63 +476,63 @@
             {
               "_class": "textTab",
               "alignment": 0,
-              "location": 113,
+              "location": 113.3499984741211,
               "options": {
               }
             },
             {
               "_class": "textTab",
               "alignment": 0,
-              "location": 141,
+              "location": 141.6999969482422,
               "options": {
               }
             },
             {
               "_class": "textTab",
               "alignment": 0,
-              "location": 170,
+              "location": 170.0500030517578,
               "options": {
               }
             },
             {
               "_class": "textTab",
               "alignment": 0,
-              "location": 198,
+              "location": 198.3999938964844,
               "options": {
               }
             },
             {
               "_class": "textTab",
               "alignment": 0,
-              "location": 226,
+              "location": 226.75,
               "options": {
               }
             },
             {
               "_class": "textTab",
               "alignment": 0,
-              "location": 255,
+              "location": 255.1000061035156,
               "options": {
               }
             },
             {
               "_class": "textTab",
               "alignment": 0,
-              "location": 283,
+              "location": 283.4500122070312,
               "options": {
               }
             },
             {
               "_class": "textTab",
               "alignment": 0,
-              "location": 311,
+              "location": 311.7999877929688,
               "options": {
               }
             },
             {
               "_class": "textTab",
               "alignment": 0,
-              "location": 340,
+              "location": 340.1499938964844,
               "options": {
               }
             }

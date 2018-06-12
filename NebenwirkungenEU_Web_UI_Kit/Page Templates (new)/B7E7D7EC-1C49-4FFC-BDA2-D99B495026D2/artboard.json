@@ -13,6 +13,15 @@
     "_class": "exportOptions",
     "do_objectID": "0E15110D-3412-47EA-95B4-D6E812DDDC37",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -35,8 +44,8 @@
     "isEnabled": false,
     "thickGridTimes": 8
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,7 +63,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -105,7 +114,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 345
   },
-  "name": "5-ASPIRIN/statistiken-Mobile",
+  "name": "5-ASPIRIN-statistiken-Mobile",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

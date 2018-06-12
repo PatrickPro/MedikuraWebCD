@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B742DF82-AD5D-4881-AC60-6EFAC16C6BE6",
-    "height": 172,
+    "height": 180,
     "width": 375,
     "x": 0,
     "y": 0
@@ -35,19 +35,19 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.35239152558053466, 0.11826432217810622}",
+      "curveFrom": "{0.35239152558053466, 0.11300813008130151}",
       "curveMode": 4,
-      "curveTo": "{0.00083263946711074086, 0.060648370347746762}",
+      "curveTo": "{0.00083263946711074086, 0.057952887221180242}",
       "hasCurveFrom": true,
       "hasCurveTo": false,
-      "point": "{0.00083263946711074086, 0.060648370347746762}"
+      "point": "{0.00083263946711074086, 0.057952887221180242}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 4,
-      "curveTo": "{0.68544731242483203, 0.16273979376645384}",
+      "curveTo": "{0.68544731242483203, 0.15550691404350034}",
       "hasCurveFrom": false,
       "hasCurveTo": true,
       "point": "{1, 0}"
@@ -55,22 +55,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.99916736053288913, 1}",
+      "curveFrom": "{0.99916736053288813, 1.0000000000000002}",
       "curveMode": 1,
-      "curveTo": "{0.99916736053288913, 1}",
+      "curveTo": "{0.99916736053288813, 1.0000000000000002}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.99916736053288913, 1}"
+      "point": "{0.99916736053288813, 1.0000000000000002}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1.0842021724855044e-19, 1}",
+      "curveFrom": "{1.0842021724855044e-19, 1.0000000000000002}",
       "curveMode": 1,
-      "curveTo": "{1.0842021724855044e-19, 1}",
+      "curveTo": "{1.0842021724855044e-19, 1.0000000000000002}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 1}"
+      "point": "{0, 1.0000000000000002}"
     }
   ],
   "resizingConstraint": 63,

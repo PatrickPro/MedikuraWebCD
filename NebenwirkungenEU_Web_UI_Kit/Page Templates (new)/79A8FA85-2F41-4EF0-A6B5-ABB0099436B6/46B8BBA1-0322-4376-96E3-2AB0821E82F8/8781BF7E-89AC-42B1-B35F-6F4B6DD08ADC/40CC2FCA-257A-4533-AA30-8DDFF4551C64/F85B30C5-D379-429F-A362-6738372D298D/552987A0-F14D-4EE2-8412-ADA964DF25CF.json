@@ -11,22 +11,22 @@
             "alpha": 1,
             "blue": 0.5098039215686274,
             "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "red": 0.06666666666666665
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 16
+              "size": 24
             }
           },
-          "kerning": 0.2000000029802322,
+          "kerning": 0.4000000059604645,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "maximumLineHeight": 38,
+            "minimumLineHeight": 38
           }
         },
         "length": 57,
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6BE4AC40-4B50-4718-B24D-C8A6EC5365B3",
-    "height": 22,
+    "height": 38,
     "width": 730,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {481, 17}}",
+  "glyphBounds": "{{0, 9}, {727, 25}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -66,7 +66,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Was sollte man bei d",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 61,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -75,33 +75,32 @@
     "do_objectID": "16828835-7E82-484A-93B2-58398D40562F",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "E939869D-7F9C-45FA-B563-B444929B4500",
+    "sharedObjectID": "4CD81FAC-4641-4BAC-9B1C-D597612B14E7",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A970F329-EC4B-414B-A209-37AFA5675826",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.5098039215686274,
           "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "red": 0.06666666666666665
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 16
+            "size": 24
           }
         },
-        "kerning": 0.2000000029802322,
+        "kerning": 0.4000000059604645,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "maximumLineHeight": 38,
+          "minimumLineHeight": 38
         }
       },
       "verticalAlignment": 0

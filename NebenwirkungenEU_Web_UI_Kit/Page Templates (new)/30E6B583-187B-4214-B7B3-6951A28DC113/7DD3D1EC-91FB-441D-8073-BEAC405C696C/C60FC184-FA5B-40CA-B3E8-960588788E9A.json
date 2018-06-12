@@ -11,22 +11,22 @@
             "alpha": 1,
             "blue": 0.5098039215686274,
             "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "red": 0.06666666666666665
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 12
+              "size": 16
             }
           },
-          "kerning": 0.2000000029802322,
+          "kerning": 0.1000000014901161,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           }
         },
         "length": 52,
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "285F9C9F-069E-47EB-9139-B15190DCF1A5",
-    "height": 16,
+    "height": 48,
     "width": 345,
     "x": 15,
-    "y": 60
+    "y": 56
   },
-  "glyphBounds": "{{4, 3}, {337, 13}}",
+  "glyphBounds": "{{7, 5}, {330, 41}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -66,7 +66,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Warum sind Beipackze",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 61,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -75,33 +75,32 @@
     "do_objectID": "C563A211-DF04-462F-8423-9C7A6BC97865",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "E7E130A1-E0C6-4684-8363-02F9E2CFB75E",
+    "sharedObjectID": "FDA82BC3-EC84-4C37-87CC-3220E7234C49",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F133C98B-43C0-4F60-9DF5-D4C397AC53E9",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.5098039215686274,
           "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "red": 0.06666666666666665
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 12
+            "size": 16
           }
         },
-        "kerning": 0.2000000029802322,
+        "kerning": 0.1000000014901161,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0

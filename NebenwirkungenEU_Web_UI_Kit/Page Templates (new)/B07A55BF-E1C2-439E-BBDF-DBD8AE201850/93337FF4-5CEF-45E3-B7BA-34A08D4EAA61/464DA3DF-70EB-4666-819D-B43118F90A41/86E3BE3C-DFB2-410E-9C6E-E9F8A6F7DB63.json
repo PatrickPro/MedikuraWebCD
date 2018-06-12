@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5098039215686274,
-            "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -25,8 +25,8 @@
             "_class": "paragraphStyle",
             "alignment": 2,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 48,
-            "minimumLineHeight": 48
+            "maximumLineHeight": 44,
+            "minimumLineHeight": 44
           }
         },
         "length": 75,
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F44CF36D-D3DB-4BE6-A74F-AB87F31702EF",
-    "height": 96,
+    "height": 88,
     "width": 920,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{35, 10}, {846, 85}}",
+  "glyphBounds": "{{35, 8}, {846, 81}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -75,18 +75,17 @@
     "do_objectID": "3006BEDA-AFEE-466A-B8F3-3A03F6B0704E",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "D76FED1D-C1F2-4206-84F2-10E0332E1C90",
+    "sharedObjectID": "078C3929-FD54-4F7F-A922-7D7AAA2F4A86",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "1374C1DB-AB3B-4C19-A230-5336201A0BA6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5098039215686274,
-          "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -100,8 +99,8 @@
           "_class": "paragraphStyle",
           "alignment": 2,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 48,
-          "minimumLineHeight": 48
+          "maximumLineHeight": 44,
+          "minimumLineHeight": 44
         }
       },
       "verticalAlignment": 0

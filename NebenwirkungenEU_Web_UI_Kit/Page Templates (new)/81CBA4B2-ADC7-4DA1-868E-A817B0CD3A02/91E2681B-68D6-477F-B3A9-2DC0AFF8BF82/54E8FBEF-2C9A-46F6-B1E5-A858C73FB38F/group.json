@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "87377BE1-72F4-4CC6-832A-5C1866765655",
-    "height": 180,
-    "width": 504,
+    "height": 362,
+    "width": 345,
     "x": 15,
-    "y": 120
+    "y": 112
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -38,6 +38,10 @@
     {
       "class": "group",
       "id": "7A53C6ED-D02E-4F12-8302-75D0786C1238"
+    },
+    {
+      "class": "group",
+      "id": "D037FCD4-9066-416A-88F7-A02E9B7B7C9D"
     }
   ],
   "name": "cards",

@@ -13,6 +13,15 @@
     "_class": "exportOptions",
     "do_objectID": "B8FC6320-711F-403D-B334-5C4A9281EEAF",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -23,7 +32,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B0CA6498-0F56-4CF1-822D-FE0EFB553FC8",
-    "height": 6302,
+    "height": 7307,
     "width": 375,
     "x": 7704,
     "y": -351
@@ -35,8 +44,8 @@
     "isEnabled": false,
     "thickGridTimes": 8
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,7 +63,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -117,7 +126,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 345
   },
-  "name": "4-ASPIRIN/beipackzettel-Mobile",
+  "name": "4-ASPIRIN-beipackzettel-Mobile",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -149,8 +158,7 @@
     "base": 0,
     "do_objectID": "5B9E762E-03CE-4AD2-A8F1-8D3BD2472400",
     "guides": [
-      64,
-      1784
+      64
     ]
   }
 }

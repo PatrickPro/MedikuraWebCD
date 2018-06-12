@@ -11,122 +11,21 @@
             "alpha": 1,
             "blue": 0.5098039215686274,
             "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "red": 0.06666666666666665
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 10
+              "size": 11
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "baseWritingDirection": 0,
-            "headIndent": 36,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16,
-            "tabStops": [
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 11,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 36,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 56,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 85,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 113,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 141,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 170,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 198,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 226,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 255,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 283,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 311,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 340,
-                "options": {
-                }
-              }
-            ],
-            "textLists": [
-              {
-                "_class": "textList",
-                "listOptions": 0,
-                "markerFormat": "{disc}"
-              }
-            ]
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           }
         },
         "length": 42,
@@ -152,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "77EA96B3-6CB3-4894-A95C-308862B9FB58",
-    "height": 16,
+    "height": 18,
     "width": 313,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {200, 11}}",
+  "glyphBounds": "{{1, 4}, {219, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -175,133 +74,31 @@
     "do_objectID": "AD5E6130-6D7F-4942-BC8D-76BD6FDCA6B4",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "C3BD61A6-FF59-48FA-AC2E-DAF9C10C3850",
+    "sharedObjectID": "8C141F21-1A90-4BF1-B3FF-E16E8BA43840",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B12447BC-B550-4AE7-ADFB-A62D499F91A8",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.5098039215686274,
           "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "red": 0.06666666666666665
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 10
+            "size": 11
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "baseWritingDirection": 0,
-          "headIndent": 36,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16,
-          "tabStops": [
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 11,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 36,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 56,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 85,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 113,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 141,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 170,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 198,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 226,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 255,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 283,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 311,
-              "options": {
-              }
-            },
-            {
-              "_class": "textTab",
-              "alignment": 0,
-              "location": 340,
-              "options": {
-              }
-            }
-          ],
-          "textLists": [
-            {
-              "_class": "textList",
-              "listOptions": 0,
-              "markerFormat": "{disc}"
-            }
-          ]
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0

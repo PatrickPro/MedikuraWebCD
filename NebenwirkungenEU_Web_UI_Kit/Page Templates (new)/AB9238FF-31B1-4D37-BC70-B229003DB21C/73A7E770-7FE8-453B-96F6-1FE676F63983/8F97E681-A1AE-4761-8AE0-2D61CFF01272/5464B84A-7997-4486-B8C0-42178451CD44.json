@@ -11,7 +11,7 @@
             "alpha": 1,
             "blue": 0.5098039215686274,
             "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "red": 0.06666666666666665
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,6 +26,8 @@
             "alignment": 0,
             "baseWritingDirection": 0,
             "headIndent": 36,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22,
             "tabStops": [
               {
                 "_class": "textTab",
@@ -126,14 +128,13 @@
                 "markerFormat": "{disc}"
               }
             ]
-          },
-          "textStyleVerticalAlignmentKey": 0
+          }
         },
-        "length": 837,
+        "length": 838,
         "location": 0
       }
     ],
-    "string": "\t• \tBlutungen (Nasenbluten, Zahnfleischbluten, rote Flecken unter der Haut etc.);\n\t• \tallergische Reaktionen wie z. B. Hautausschlag, Asthma-Anfall oder Anschwellen des Gesichtes in Verbindung mit Atemproblemen;\n\t• \tKopfschmerzen, Schwindel, Hörverlust, Ohrgeräusche (Tinnitus); derartige Beschwerden sind gewöhnlich Zeichen einer Überdosierung;\n\t• \tHirnblutung;\n\t• \tMagenschmerzen;\n\t• \tMagen-Darm-Blutung. Diese Nebenwirkungen treten besonders häufig unter hohen Dosen auf;\n\t• \tAnstieg der Leberenzyme, die sich nach dem Absetzen der Behandlung weitgehend normalisieren, Leberfunktionsstörung (betroffen sind hauptsächlich die Leberzellen);\n\t• \tNesselsucht (Urtikaria), Hautreaktionen;\n\t• \tReye-Syndrom (Bewusstseinstrübung auffälliges Verhalten oder Erbrechen) bei einem Kind mit Viruserkrankung das Acetylsalicylsäure eingenommen hat;"
+    "string": "\t• \tBlutungen (Nasenbluten, Zahnfleischbluten, rote Flecken unter der Haut etc.);\n\t• \tAllergische Reaktionen wie z. B. Hautausschlag, Asthma-Anfall oder Anschwellen des Gesichtes in Verbindung mit Atemproblemen;\n\t• \tKopfschmerzen, Schwindel, Hörverlust, Ohrgeräusche (Tinnitus); derartige Beschwerden sind gewöhnlich Zeichen einer Überdosierung;\n\t• \tHirnblutung;\n\t• \tMagenschmerzen;\n\t• \tMagen-Darm-Blutung. Diese Nebenwirkungen treten besonders häufig unter hohen Dosen auf;\n\t• \tAnstieg der Leberenzyme, die sich nach dem Absetzen der Behandlung weitgehend normalisieren, Leberfunktionsstörung (betroffen \tsind hauptsächlich die Leberzellen);\n\t• \tNesselsucht (Urtikaria), Hautreaktionen;\n\t• \tReye-Syndrom (Bewusstseinstrübung auffälliges Verhalten oder Erbrechen) bei einem Kind mit Viruserkrankung das Acetylsalicylsäure eingenommen hat;"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5464B84A-7997-4486-B8C0-42178451CD44",
@@ -152,12 +153,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0FA1F20F-3159-4107-9C5A-0EE4C636A0E5",
-    "height": 228,
+    "height": 264,
     "width": 920,
     "x": 0,
-    "y": 168
+    "y": 192
   },
-  "glyphBounds": "{{12, 4}, {896, 224}}",
+  "glyphBounds": "{{12, 5}, {897, 257}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -175,17 +176,17 @@
     "do_objectID": "9588D0F7-8228-410F-BE7D-41D6178232FD",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "EF1B112A-0D98-4BB5-94B2-DA92E2995040",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F08A499E-F6CD-4771-9996-10BA2B252DD0",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.5098039215686274,
           "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "red": 0.06666666666666665
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -200,6 +201,8 @@
           "alignment": 0,
           "baseWritingDirection": 0,
           "headIndent": 36,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22,
           "tabStops": [
             {
               "_class": "textTab",
@@ -300,8 +303,7 @@
               "markerFormat": "{disc}"
             }
           ]
-        },
-        "textStyleVerticalAlignmentKey": 0
+        }
       },
       "verticalAlignment": 0
     }

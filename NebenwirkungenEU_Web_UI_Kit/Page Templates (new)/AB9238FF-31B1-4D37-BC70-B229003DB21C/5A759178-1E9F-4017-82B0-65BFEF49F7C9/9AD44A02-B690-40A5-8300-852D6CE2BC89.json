@@ -149,23 +149,16 @@
               "size": 14
             }
           },
+          "kerning": 0.2000000029802322,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "baseWritingDirection": 0,
-            "headIndent": 36,
             "tabStops": [
               {
                 "_class": "textTab",
                 "alignment": 0,
-                "location": 11,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 36,
+                "location": 28,
                 "options": {
                 }
               },
@@ -246,17 +239,11 @@
                 "options": {
                 }
               }
-            ],
-            "textLists": [
-              {
-                "_class": "textList",
-                "listOptions": 0,
-                "markerFormat": "{disc}"
-              }
             ]
-          }
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 1,
         "location": 667
       },
       {
@@ -385,137 +372,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
-        "location": 670
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5098039215686274,
-            "green": 0.4745098039215684,
-            "red": 0.06666666666666667
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Regular",
-              "size": 14
-            }
-          },
-          "kerning": 0.2000000029802322,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "baseWritingDirection": 0,
-            "headIndent": 36,
-            "tabStops": [
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 11,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 36,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 56,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 85,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 113,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 141,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 170,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 198,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 226,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 255,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 283,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 311,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 340,
-                "options": {
-                }
-              }
-            ],
-            "textLists": [
-              {
-                "_class": "textList",
-                "listOptions": 0,
-                "markerFormat": "{disc}"
-              }
-            ]
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
         "length": 626,
-        "location": 671
+        "location": 668
       },
       {
         "_class": "stringAttribute",
@@ -629,7 +487,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 1297
+        "location": 1294
       },
       {
         "_class": "stringAttribute",
@@ -758,7 +616,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 62,
-        "location": 1298
+        "location": 1295
       },
       {
         "_class": "stringAttribute",
@@ -885,7 +743,7 @@
           }
         },
         "length": 3,
-        "location": 1360
+        "location": 1357
       },
       {
         "_class": "stringAttribute",
@@ -1014,10 +872,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 44,
-        "location": 1363
+        "location": 1360
       }
     ],
-    "string": "Anwendung bei Erwachsenen und Jugendlichen (ab 16 Jahren):\n\t•\tDie empfohlene Einzeldosis ist 1 Tablette; bei Bedarf kann die Dosis im Abstand von mindestens 4 Stunden wiederholt werden;\n\t•\tBei höherem Fieber oder stärkeren Schmerzen ist die empfohlene Einzeldosis 2 Tabletten (diese Dosis kann bei Bedarf ebenfalls im Abstand von mindestens 4 Stunden wiederholt werden);\n\t•\tDie Gesamttagesdosis darf 6 Tabletten nicht überschreiten;\n\t•\tAnwendung bei älteren Patienten (ab 65 Jahren);\n\t•\tDie empfohlene Einzeldosis ist 1 Tablette bei Bedarf kann die Dosis im Abstand von mindestens 4 Stunden wiederholt werden;\n\t•\tDie Gesamtdosis darf 4 Tabletten nicht überschreiten.\n\t•\t\nAnwendung bei Jugendlichen im Alter von 12 - 15 Jahren (Körpergewicht 40 - 50 kg):\n\t•\tDie Dosierung hängt vom Körpergewicht des Jugendlichen ab; die Altersangabe dient nur zu Informationszwecken;\n\t•\tDie empfohlene Einzeldosis ist 1 Tablette bei Bedarf kann die Dosis im Abstand von mindestens 4 Stunden wiederholt werden;\n\t•\tDie Gesamttagesdosis darf 6 Tabletten nicht überschreiten;\n\t•\tAnwendung bei besonderen Patientengruppen;\n\t•\tPatienten mit eingeschränkter Leber- oder Nierenfunktion oder mit Kreislaufproblemen (z. B. Herzinsuffizienz oder erheblichen Blutungen): Lassen Sie sich von Ihrem Arzt oder Apotheker beraten.\n\nKinder unter 12 Jahren (mit einem Körpergewicht unter 40 kg):\n\t•\tNicht ohne ärztliche Verschreibung anwenden."
+    "string": "Anwendung bei Erwachsenen und Jugendlichen (ab 16 Jahren):\n\t•\tDie empfohlene Einzeldosis ist 1 Tablette; bei Bedarf kann die Dosis im Abstand von mindestens 4 Stunden wiederholt werden;\n\t•\tBei höherem Fieber oder stärkeren Schmerzen ist die empfohlene Einzeldosis 2 Tabletten (diese Dosis kann bei Bedarf ebenfalls im Abstand von mindestens 4 Stunden wiederholt werden);\n\t•\tDie Gesamttagesdosis darf 6 Tabletten nicht überschreiten;\n\t•\tAnwendung bei älteren Patienten (ab 65 Jahren);\n\t•\tDie empfohlene Einzeldosis ist 1 Tablette bei Bedarf kann die Dosis im Abstand von mindestens 4 Stunden wiederholt werden;\n\t•\tDie Gesamtdosis darf 4 Tabletten nicht überschreiten.\n\nAnwendung bei Jugendlichen im Alter von 12 - 15 Jahren (Körpergewicht 40 - 50 kg):\n\t•\tDie Dosierung hängt vom Körpergewicht des Jugendlichen ab; die Altersangabe dient nur zu Informationszwecken;\n\t•\tDie empfohlene Einzeldosis ist 1 Tablette bei Bedarf kann die Dosis im Abstand von mindestens 4 Stunden wiederholt werden;\n\t•\tDie Gesamttagesdosis darf 6 Tabletten nicht überschreiten;\n\t•\tAnwendung bei besonderen Patientengruppen;\n\t•\tPatienten mit eingeschränkter Leber- oder Nierenfunktion oder mit Kreislaufproblemen (z. B. Herzinsuffizienz oder erheblichen Blutungen): Lassen Sie sich von Ihrem Arzt oder Apotheker beraten.\n\nKinder unter 12 Jahren (mit einem Körpergewicht unter 40 kg):\n\t•\tNicht ohne ärztliche Verschreibung anwenden."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9AD44A02-B690-40A5-8300-852D6CE2BC89",

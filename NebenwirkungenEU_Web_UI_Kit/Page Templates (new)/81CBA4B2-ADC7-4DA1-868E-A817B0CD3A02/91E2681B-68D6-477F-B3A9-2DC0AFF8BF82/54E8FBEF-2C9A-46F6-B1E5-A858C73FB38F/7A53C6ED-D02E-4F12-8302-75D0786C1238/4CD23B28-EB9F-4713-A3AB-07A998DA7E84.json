@@ -11,21 +11,21 @@
             "alpha": 1,
             "blue": 0.5098039215686274,
             "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "red": 0.06666666666666665
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 10
+              "size": 11
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 17,
+            "minimumLineHeight": 17
           }
         },
         "length": 52,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5305A119-0C3F-4BBC-BB2B-94799FF550D7",
-    "height": 32,
+    "height": 34,
     "width": 158,
     "x": 0,
-    "y": 132
+    "y": 131
   },
-  "glyphBounds": "{{7, 4}, {143, 27}}",
+  "glyphBounds": "{{0, 4}, {157, 29}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -74,32 +74,31 @@
     "do_objectID": "9C35EFD1-0A20-4393-B562-7E3138CFD931",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "F8F90D89-2228-4B7B-B8D4-52EA37B9529B",
+    "sharedObjectID": "5D3545CA-A821-45BD-853A-BE4701C8BA10",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EB9A64A9-264F-484A-A5E0-8F6B82E451AD",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.5098039215686274,
           "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "red": 0.06666666666666665
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 10
+            "size": 11
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 17,
+          "minimumLineHeight": 17
         }
       },
       "verticalAlignment": 0

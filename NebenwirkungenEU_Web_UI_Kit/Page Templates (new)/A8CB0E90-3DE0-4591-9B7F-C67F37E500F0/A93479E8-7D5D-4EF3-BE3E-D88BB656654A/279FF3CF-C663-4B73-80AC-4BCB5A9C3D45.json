@@ -11,22 +11,22 @@
             "alpha": 1,
             "blue": 0.5098039215686274,
             "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "red": 0.06666666666666665
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 16
+              "size": 30
             }
           },
-          "kerning": 0.2000000029802322,
+          "kerning": 0.6000000238418579,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "maximumLineHeight": 42,
+            "minimumLineHeight": 42
           }
         },
         "length": 31,
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FDA1EC92-A733-4973-A63F-6A8884907D32",
-    "height": 22,
-    "width": 255,
+    "height": 42,
+    "width": 540,
     "x": 640,
     "y": 139
   },
-  "glyphBounds": "{{0, 4}, {254, 17}}",
+  "glyphBounds": "{{0, 10}, {483, 31}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -66,7 +66,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Wie aktuell sind Bei",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 61,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -75,37 +75,36 @@
     "do_objectID": "FE5468EE-E37C-4B57-B466-B48F1EDB1B01",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "E939869D-7F9C-45FA-B563-B444929B4500",
+    "sharedObjectID": "ED18775C-F183-43D5-AAB3-3A4A1597B3DF",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A356AFA7-B2D7-49B9-AAB4-BD190BE6F0C5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.5098039215686274,
           "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "red": 0.06666666666666665
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 16
+            "size": 30
           }
         },
-        "kerning": 0.2000000029802322,
+        "kerning": 0.6000000238418579,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "maximumLineHeight": 42,
+          "minimumLineHeight": 42
         }
       },
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

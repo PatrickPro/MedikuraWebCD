@@ -45,7 +45,7 @@
     "thickGridTimes": 8
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -160,7 +160,8 @@
     "base": 0,
     "do_objectID": "5446D790-3309-4508-9069-56A0BBA2CD5D",
     "guides": [
-      1024
+      1024,
+      3111
     ]
   }
 }

@@ -11,28 +11,28 @@
             "alpha": 1,
             "blue": 0.5098039215686274,
             "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "red": 0.06666666666666665
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 10
+              "size": 11
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 17,
+            "minimumLineHeight": 17
           }
         },
-        "length": 67,
+        "length": 68,
         "location": 0
       }
     ],
-    "string": "Nebenwirkungen von Antibiotika: der schwere Fall der Fluorchinolone"
+    "string": "Nebenwirkungen von Antibiotika - der schwere Fall der Flurachinolone"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DA06E06E-BDD8-4E68-86D5-43F339BE7E20",
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0746D9EB-DE30-4B35-8BDC-E89AFB646C0E",
-    "height": 48,
+    "height": 51,
     "width": 158,
     "x": 0,
-    "y": 132
+    "y": 131
   },
-  "glyphBounds": "{{2, 4}, {154, 41}}",
+  "glyphBounds": "{{5, 4}, {147, 44}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -74,32 +74,31 @@
     "do_objectID": "43E30AE5-9FF5-4DD3-826C-041DF539606D",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "F8F90D89-2228-4B7B-B8D4-52EA37B9529B",
+    "sharedObjectID": "5D3545CA-A821-45BD-853A-BE4701C8BA10",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "081B9D91-A757-4AEC-B6C9-5377D15EB02B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.5098039215686274,
           "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "red": 0.06666666666666665
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 10
+            "size": 11
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 17,
+          "minimumLineHeight": 17
         }
       },
       "verticalAlignment": 0

@@ -9,23 +9,24 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5098039215686274,
-            "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "blue": 0.2549019607843137,
+            "green": 0.07843137254901963,
+            "red": 0.5568627450980392
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 11
+              "size": 16
             }
           },
+          "kerning": 0.1000000014901161,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           }
         },
         "length": 9,
@@ -51,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F38A625E-1EA0-41B8-A923-C69E6973B1B2",
-    "height": 16,
+    "height": 24,
     "width": 345,
     "x": 15,
-    "y": 48
+    "y": 56
   },
-  "glyphBounds": "{{145, 3}, {56, 12}}",
+  "glyphBounds": "{{132, 5}, {82, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -74,32 +75,32 @@
     "do_objectID": "83575782-D876-4AEE-9720-D9B9F314F460",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "93A5305E-E3FF-4819-8E05-F771C20524F5",
+    "sharedObjectID": "BDFD1DE4-3761-4EBB-B645-002FF90F4051",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "64A6A339-2B9D-4B25-AF01-D894961AAE11",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5098039215686274,
-          "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "blue": 0.2549019607843137,
+          "green": 0.07843137254901963,
+          "red": 0.5568627450980392
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 11
+            "size": 16
           }
         },
+        "kerning": 0.1000000014901161,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0
