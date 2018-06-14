@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "010C4301-90C3-450E-99BC-02F4BE5C799D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D7FF5B9D-AF0E-4612-8896-0745169139B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D869D9B6-CD95-40F3-8991-96FE7329E918",
+    "height": 11,
+    "width": 70,
+    "x": 88,
+    "y": 48
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/67615812c49bd128ccbdd1674e2eab43ce488f4f.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logo_ab",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C1822F96-88A9-4CB1-9DB3-4ED5157E0106",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.774703557312253,
+      "type": 0
+    },
+    "do_objectID": "B3C5107E-3719-4621-8098-5F1BDDA62FF3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
