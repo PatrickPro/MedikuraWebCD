@@ -15,17 +15,17 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "887D2B20-02A7-4622-B6B2-3B8CE5B2FCC4",
-    "height": 18,
-    "width": 424,
+    "height": 22,
+    "width": 460,
     "x": 95,
-    "y": 478
+    "y": 516
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -34,6 +34,10 @@
     {
       "class": "symbolInstance",
       "id": "D3613101-7F64-40DC-A34A-9241B17ED030"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F1B8D07-E690-4104-8CC2-E4DED15439DB"
     }
   ],
   "name": "rules",

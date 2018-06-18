@@ -11,22 +11,22 @@
             "alpha": 1,
             "blue": 0.5098039215686274,
             "green": 0.4745098039215684,
-            "red": 0.06666666666666667
+            "red": 0.06666666666666665
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 16
+              "size": 14
             }
           },
-          "kerning": 0.6000000238418579,
+          "kerning": 0.2000000029802322,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           }
         },
         "length": 707,
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "391926C6-67F6-4D81-A09B-5629EBE6826C",
-    "height": 168,
+    "height": 132,
     "width": 920,
     "x": 260,
     "y": 184
   },
-  "glyphBounds": "{{0, 5}, {903, 161}}",
+  "glyphBounds": "{{0, 5}, {911, 125}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -75,33 +75,32 @@
     "do_objectID": "39D5B97A-2484-4E6B-B2DA-7D623A197A77",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "EEF3D156-1321-4B04-8481-484DB535A44D",
+    "sharedObjectID": "EF1B112A-0D98-4BB5-94B2-DA92E2995040",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B8183F08-7877-48F6-95CB-0AB19E632A39",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.5098039215686274,
           "green": 0.4745098039215684,
-          "red": 0.06666666666666667
+          "red": 0.06666666666666665
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 16
+            "size": 14
           }
         },
-        "kerning": 0.6000000238418579,
+        "kerning": 0.2000000029802322,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         }
       },
       "verticalAlignment": 0

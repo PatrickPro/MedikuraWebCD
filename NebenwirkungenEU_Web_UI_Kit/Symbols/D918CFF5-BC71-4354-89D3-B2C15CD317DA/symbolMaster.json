@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3493,
+  "changeIdentifier": 3527,
   "do_objectID": "D918CFF5-BC71-4354-89D3-B2C15CD317DA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -25,9 +25,9 @@
     "constrainProportions": false,
     "do_objectID": "3B14118C-9FD2-45A4-A04A-6FE4BCE6017B",
     "height": 32,
-    "width": 256,
-    "x": 11844,
-    "y": 3575
+    "width": 255,
+    "x": 12066,
+    "y": 3576
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -53,17 +53,13 @@
       "id": "1C4D30D5-A253-48AB-B950-9C359DDE6D34"
     },
     {
-      "class": "text",
-      "id": "D1CF445E-5881-477A-B6B3-3EA210B3FA81"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0A82A360-3FB4-452C-8FC0-EC64E203B891"
+      "class": "group",
+      "id": "DBF67376-4FE5-4DAF-9761-23748128B899"
     }
   ],
   "name": "input / desktop / form / error",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
